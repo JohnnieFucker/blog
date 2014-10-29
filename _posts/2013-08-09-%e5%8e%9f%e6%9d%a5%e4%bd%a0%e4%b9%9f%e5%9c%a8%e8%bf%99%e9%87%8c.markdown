@@ -1,0 +1,48 @@
+---
+layout: post
+status: publish
+published: true
+title: 原来你也在这里
+author: JohnnieFucker
+excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XNDExNTEzMDY0/v.swf\"
+  allowFullScreen=\"true\" quality=\"high\" width=\"480\" height=\"400\" align=\"middle\"
+  allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"/>\r\n\r\n于千万人之中遇见你所要遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻地问一声：“噢，你也在这里吗？”\r\n
+  \                                                张爱玲散文《爱》\r\n\r\n"
+wordpress_id: 495
+wordpress_url: http://www.oushit.com/?p=495
+date: '2013-08-09 17:02:32 +0800'
+date_gmt: '2013-08-09 09:02:32 +0800'
+category: Music
+tags:
+- 音乐
+- 爱情
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XNDExNTEzMDY0/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"/></p>
+<p>于千万人之中遇见你所要遇见的人，于千万年之中，时间的无涯的荒野里，没有早一步，也没有晚一步，刚巧赶上了，那也没有别的话可说，惟有轻轻地问一声：“噢，你也在这里吗？”<br />
+                                                 张爱玲散文《爱》</p>
+<p><!--break--><a id="more-495"></a></p>
+<blockquote><p>
+请允许我尘埃落定　用沉默埋葬了过去<br />
+满身风雨我从海上来　才隐居在这沙漠里<br />
+该隐瞒的事总清晰　千言万语只能无语<br />
+爱是天时地利的迷信　喔　原来你也在这里<br />
+啊　那一个人　是不是只存在梦境里<br />
+为什么我用尽全身力气 却换来半生回忆<br />
+若不是你渴望眼睛　若不是我救赎心情<br />
+在千山万水人海相遇　喔　原来你也在这里<br />
+请允许我尘埃落定　用沉默埋葬了过去<br />
+满身风雨我从海上来　才隐居在这沙漠里<br />
+该隐瞒的事总清晰　千言万语只能无语<br />
+爱是天时地利的迷信　喔　原来你也在这里<br />
+啊　那一个人　是不是只存在梦境里<br />
+为什么我用尽全身力气 却换来半生回忆<br />
+若不是你渴望眼睛　若不是我救赎心情<br />
+在千山万水人海相遇　喔　原来你也在这里<br />
+啊　那一个人　是不是只存在梦境里<br />
+为什么我用尽全身力气 却换来半生回忆<br />
+若不是你渴望眼睛　若不是我救赎心情<br />
+在千山万水人海相遇　喔　原来你也在这里<br />
+该隐瞒的事总清晰　千言万语只能无语<br />
+爱是天时地利的迷信　喔　原来你也在这里
+</p></blockquote>

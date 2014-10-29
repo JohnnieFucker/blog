@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: 送别miller
+author: JohnnieFucker
+wordpress_id: 80
+wordpress_url: http://www.oushit.com/?p=80
+date: '2008-08-07 23:40:03 +0800'
+date_gmt: '2008-08-07 15:40:03 +0800'
+category: The Time Of My Life
+tags:
+- 朋友
+comments: []
+---
+<p><img src="http://pic.yupoo.com/crazysperm/559725fe8c94/qg90a6rp.jpg" alt="" width='500px' /><br />
+今天miller离职，离开深圳去上海。祝福他一路顺风。<br />
+上图为南昆山漂流时候的合照<br />
+最后，也是最重要的。苟富贵,毋相忘！</p>

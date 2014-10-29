@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 风继续吹
+author: JohnnieFucker
+wordpress_id: 49
+wordpress_url: http://www.oushit.com/?p=49
+date: '2008-04-01 22:07:03 +0800'
+date_gmt: '2008-04-01 14:07:03 +0800'
+category: The Time Of My Life
+tags:
+- 张国荣
+comments: []
+---
+<p><img src="http://www.mrall.cn/Article/UploadFiles/200706/2007611194721.jpg" /><br />
+今天是张国荣逝世5周年<br />
+今天突然下起了雨，凄凄沥沥。<br />
+哥哥已去，而唯有风继续吹<br />
+[audio:http://down.cooai.com/www.cooai.com%B9%B2%CF%ED%D7%CA%D4%B4-ofddfRE/vod/20070401054107109.mp3|loop=yes]</p>

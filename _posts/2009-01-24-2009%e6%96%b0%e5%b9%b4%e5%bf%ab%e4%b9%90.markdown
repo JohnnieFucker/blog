@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 2009新年快乐
+author: JohnnieFucker
+wordpress_id: 107
+wordpress_url: http://www.oushit.com/?p=107
+date: '2009-01-24 11:28:43 +0800'
+date_gmt: '2009-01-24 03:28:43 +0800'
+category: The Time Of My Life
+tags: []
+comments: []
+---
+<p><img src="http://www.drame.cn/webedit/UploadFile/200912091321890.gif" alt="" /><br />
+转眼间，2009就要到了，小弟我在这里祝大家新年快乐，万事如意。清早起来也给blog做了一个新的背景图，够喜庆吧。<br />
+08年有很多的故事，也是我过得比较郁闷的一年，虽然还算平平安安，顺顺利利，但是在工作上始终没有找到很好的feeling。<br />
+09年金融风暴，建国60年……应该又是一个有故事的一年，希望自己的09年是有激情的一年，或许我将离开工作了近三年的腾讯，或许我将离开生活了近三年的深圳，但愿今日的蛰伏只是为了未来更高的飞跃。09年大家一起共勉吧！</p>

@@ -1,0 +1,61 @@
+---
+layout: post
+status: publish
+published: true
+title: 全明星周末
+author: JohnnieFucker
+excerpt: "<img src=\"http://pic.yupoo.com/oushit/825606fced80/medium.jpg\" alt=\"\"
+  />\r\n上周末nba全明星周末，我们也有我们的全明星周末。小熊猫来深圳培训，充当了一把我们的御用摄影师。\r\n"
+wordpress_id: 132
+wordpress_url: http://www.oushit.com/?p=132
+date: '2009-02-17 14:04:02 +0800'
+date_gmt: '2009-02-17 06:04:02 +0800'
+category: The Time Of My Life
+tags:
+- 篮球
+- 周末
+comments:
+- id: 88
+  author: 丁丁
+  author_email: susan.du@mindray.com
+  author_url: ''
+  date: '2009-02-18 13:34:35 +0800'
+  date_gmt: '2009-02-18 05:34:35 +0800'
+  content: 哈哈 我是中投王~ 不错 我就笑纳这称号了哈:P
+- id: 89
+  author: 视屎如瑰
+  author_email: crazysperm@gmail.com
+  author_url: http://www.oushit.com
+  date: '2009-02-18 16:06:18 +0800'
+  date_gmt: '2009-02-18 08:06:18 +0800'
+  content: '小高说的的嘛 :em03:'
+- id: 90
+  author: gothic
+  author_email: vivienleefly@gmail.com
+  author_url: http://7221926.qzone.qq.com
+  date: '2009-02-19 00:33:43 +0800'
+  date_gmt: '2009-02-18 16:33:43 +0800'
+  content: "安逸啊，好多悬浮的照片\r\n姐夫那张感觉不错\r\n深圳真温暖啊～"
+---
+<p><img src="http://pic.yupoo.com/oushit/825606fced80/medium.jpg" alt="" /><br />
+上周末nba全明星周末，我们也有我们的全明星周末。小熊猫来深圳培训，充当了一把我们的御用摄影师。<br />
+<!--break--><a id="more-132"></a><br />
+弦哥中投<br />
+<img src="http://pic.yupoo.com/oushit/693356fce8ed/medium.jpg" alt="" /><br />
+熊猫3分<br />
+<img src="http://pic.yupoo.com/crazysperm/052406fdc6c8/medium.jpg" alt="" /><br />
+弦哥上篮<br />
+<img src="http://pic.yupoo.com/oushit/990816fce8e4/medium.jpg" alt="" /><br />
+熊猫的后仰投篮<br />
+<img src="http://pic.yupoo.com/crazysperm/699556fdc6a1/medium.jpg" alt="" /><br />
+熊猫犀利的以眼杀人防守法<br />
+<img src="http://pic.yupoo.com/crazysperm/864566fdc678/medium.jpg" alt="" /><br />
+向《态度》致敬<br />
+<img src="http://pic.yupoo.com/oushit/306046fce8f6/medium.jpg" alt="" /><br />
+中投王穿个靴子，只能在旁边当看客。<br />
+<img src="http://pic.yupoo.com/oushit/491516fcf060/medium.jpg" alt="" /><br />
+大小熊猫和我，小虎队么。。。<br />
+<img src="http://pic.yupoo.com/oushit/892796fced73/medium.jpg" alt="" /><br />
+吉祥三宝的一家<br />
+<img src="http://pic.yupoo.com/oushit/832256fce917/medium.jpg" alt="" /><br />
+<img src="http://pic.yupoo.com/oushit/616236fce926/medium.jpg" alt="" /></p>

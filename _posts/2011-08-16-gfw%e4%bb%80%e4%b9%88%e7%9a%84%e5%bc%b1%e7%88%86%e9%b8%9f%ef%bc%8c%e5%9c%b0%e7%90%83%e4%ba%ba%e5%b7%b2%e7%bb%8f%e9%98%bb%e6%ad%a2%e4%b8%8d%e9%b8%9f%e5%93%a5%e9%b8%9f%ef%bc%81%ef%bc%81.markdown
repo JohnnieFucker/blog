@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: GFW什么的弱爆鸟，地球人已经阻止不鸟哥鸟！！
+author: JohnnieFucker
+wordpress_id: 380
+wordpress_url: http://www.oushit.com/?p=380
+date: '2011-08-16 21:52:54 +0800'
+date_gmt: '2011-08-16 13:52:54 +0800'
+category: Some Words
+tags:
+- 翻墙
+- GFW
+- VPN
+comments: []
+---
+<p><img src="http://www.vpnchoice.com/blog/wp-content/uploads/2011/06/astrill.jpg" alt="" /><br />
+今天公司采购了astrill商业版vpn，买一年，省两个月费用，总共1200刀！说实话真尼玛的贵啊！不过为了自由，这代价值！！！去尼玛的GFW，地球人已经阻止不鸟哥追求真理和自由的脚步了。youtube哥来看你了！google的各种服务终于可以稳定的使用鸟！！！！！！！！！</p>

@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+title: 夜空中最亮的星
+author: JohnnieFucker
+excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XNDA3ODM0NTM2/v.swf\"
+  allowFullScreen=\"true\" quality=\"high\" width=\"480\" height=\"400\" align=\"middle\"
+  allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"></embed>\r\n\r\n当我迷失在黑暗，拿什么指引我前行？\r\n当我价值观崩塌，用什么支持我继续追求？\r\n"
+wordpress_id: 488
+wordpress_url: http://www.oushit.com/?p=488
+date: '2013-01-07 12:16:52 +0800'
+date_gmt: '2013-01-07 04:16:52 +0800'
+category: Music
+tags:
+- 音乐
+- 青春
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XNDA3ODM0NTM2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p>当我迷失在黑暗，拿什么指引我前行？<br />
+当我价值观崩塌，用什么支持我继续追求？<br />
+<!--break--><a id="more-488"></a></p>
+<blockquote><p>
+      夜空中最亮的星 能否听清<br />
+　　那仰望的人心底的孤独和叹息<br />
+　　夜空中最亮的星 能否记起<br />
+　　曾与我同行 消失在风里的身影<br />
+　　我祈祷拥有一颗透明的心灵 和会流泪的眼睛<br />
+　　给我再去相信的勇气 越过谎言去拥抱你<br />
+　　每当我找不到存在的意义 每当我迷失在黑夜里<br />
+　　夜空中最亮的星 请指引我靠近你<br />
+　　夜空中最亮的星 是否知道曾与我同行的身影 如今在哪里<br />
+　　夜空中最亮的星 是否在意是等太阳升起 还是意外先来临<br />
+　　我宁愿所有痛苦都留在心里 也不愿忘记你的眼睛<br />
+　　给我再去相信的勇气 越过谎言去拥抱你<br />
+　　每当我找不到存在的意义 每当我迷失在黑夜里<br />
+　　夜空中最亮的星 请照亮我前行
+</p></blockquote>

@@ -1,0 +1,20 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Shoot Up: 1 vs 4'
+author: JohnnieFucker
+wordpress_id: 23
+wordpress_url: http://www.oushit.com/?p=23
+date: '2007-11-30 23:21:24 +0800'
+date_gmt: '2007-11-30 15:21:24 +0800'
+category: Some Words
+tags:
+- 广告
+- 创意
+comments: []
+---
+<p><a href="http://www.digiart.cn/attachment.php?fid=1737" target="_blank"><img src="http://www.digiart.cn/attachment.php?fid=1737" class="insertimage" alt="点击在新窗口中浏览此图片" title="点击在新窗口中浏览此图片" border="0" /></a><br />
+释放无尽能量。<br />
+一款饮料的广告图，很好很强大 orz...<br />
+转载自<a href="http://www.digiart.cn/post/1634" target="_blank">digiart</a></p>

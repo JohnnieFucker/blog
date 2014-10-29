@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: 看看你的明星脸
+author: JohnnieFucker
+excerpt: "<a href=\"http://photo14.yupoo.com/20071129/002742_610058904_shaaqxwy.jpg\"><img
+  src=\"http://photo14.yupoo.com/20071129/002742_610058904.jpg\" /></a>\r\n今天在vic的Qzone上看到的，一个很好玩的人脸识别网站，功能很强大，可以识别出哪些名人跟你长的最像。\r\n这张最像的居然是星爷：）\r\n点<a
+  href=\"http://www.myheritage.cn/FP/Company/face-recognition.php\">这里</a>去玩玩。\r\n"
+wordpress_id: 22
+wordpress_url: http://www.oushit.com/?p=22
+date: '2007-11-29 00:28:37 +0800'
+date_gmt: '2007-11-28 16:28:37 +0800'
+category: The Time Of My Life
+tags:
+- 网站介绍
+- 面部识别
+- 明星
+comments:
+- id: 20
+  author: 鬧鬧
+  author_email: wawa_forever@163.com
+  author_url: ''
+  date: '2007-11-29 22:21:21 +0800'
+  date_gmt: '2007-11-29 14:21:21 +0800'
+  content: '哈哈好安逸我也切耍下 :em06:'
+---
+<p><a href="http://photo14.yupoo.com/20071129/002742_610058904_shaaqxwy.jpg"><img src="http://photo14.yupoo.com/20071129/002742_610058904.jpg" /></a><br />
+今天在vic的Qzone上看到的，一个很好玩的人脸识别网站，功能很强大，可以识别出哪些名人跟你长的最像。<br />
+这张最像的居然是星爷：）<br />
+点<a href="http://www.myheritage.cn/FP/Company/face-recognition.php">这里</a>去玩玩。<br />
+<!--break--><a id="more-22"></a><br />
+这是我觉得最变态的一张，是拿在公司拍的证件照测的。结果最相似的10个人中有9个女的。。。。居然还有巩俐大嫂和蔡依林。<br />
+<a href="http://photo15.yupoo.com/20071129/002740_350157320_tzoqgflc.jpg"><img src="http://photo15.yupoo.com/20071129/002740_350157320.jpg" /></a><br />
+这个最像KANGTA<br />
+<a href="http://photo14.yupoo.com/20071129/002741_1722248905_lbphgynz.jpg"><img src="http://photo14.yupoo.com/20071129/002741_1722248905.jpg" /></a><br />
+再来张戴墨镜的，最像的居然是bsb的AJ，呵呵<br />
+<a href="http://photo14.yupoo.com/20071129/002741_609489389_dvifgtcd.jpg"><img src="http://photo14.yupoo.com/20071129/002741_609489389.jpg" /></a></p>
+<p>这个网站非常强大，还能生成从你到明星演变的flash。唯一的缺点就是这个网站速度比较慢</p>
+<p>[kml_flashembed movie="http://www.myheritagefiles.com/videos/I/28/8taj91_703054e521d4746fopef91" height="350" width="350" /]</p>

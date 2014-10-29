@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 玩街机的至高境界
+author: JohnnieFucker
+wordpress_id: 34
+wordpress_url: http://www.oushit.com/?p=34
+date: '2008-01-10 17:25:03 +0800'
+date_gmt: '2008-01-10 09:25:03 +0800'
+category: Some Words
+tags:
+- 搞笑
+- 游戏
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XNjQxOTM2/v.swf" type="application/x-shockwave-flash" align="middle" height="372" width="450"></embed></p>

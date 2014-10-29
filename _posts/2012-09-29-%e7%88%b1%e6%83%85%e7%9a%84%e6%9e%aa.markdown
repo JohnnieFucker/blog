@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 爱情的枪
+author: JohnnieFucker
+wordpress_id: 481
+wordpress_url: http://www.oushit.com/?p=481
+date: '2012-09-29 16:12:08 +0800'
+date_gmt: '2012-09-29 08:12:08 +0800'
+category: Music
+tags:
+- 音乐
+- 青春
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XMzM3ODI2OTE2/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<p>亲爱的，请借我一把枪，我要杀了我的爱情！</p>

@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: 牛仔很忙之九羊豆浆机
+author: JohnnieFucker
+wordpress_id: 169
+wordpress_url: http://www.oushit.com/?p=169
+date: '2009-06-14 19:11:07 +0800'
+date_gmt: '2009-06-14 11:11:07 +0800'
+category: The Time Of My Life
+tags:
+- 搞笑
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/24284932/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+杰伦看到作何感想……白领得有好身体，筹钱买了豆浆机-_-!</p>

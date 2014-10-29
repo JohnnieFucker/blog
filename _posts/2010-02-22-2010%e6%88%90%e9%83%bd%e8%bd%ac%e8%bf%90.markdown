@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: 2010?成都?转运?
+author: JohnnieFucker
+wordpress_id: 230
+wordpress_url: http://www.oushit.com/?p=230
+date: '2010-02-22 23:16:00 +0800'
+date_gmt: '2010-02-22 15:16:00 +0800'
+category: The Time Of My Life
+tags:
+- 成都
+- 2010年
+- 运气
+comments: []
+---
+<p>难道是2010年回到成都拥有了天时地利？隐约觉得有点转运了，在深圳腾讯4年抽奖从来就没中过，回成都参加新年晚会就中了个4等奖。春节回家打麻将也赢了，春茗那天陪同事们打1块都胡了好多极品，最后也赢了几十。最牛的是连续两天刮中发票，虽然每次只中了5块，明天拿这5块去买彩票，哈哈！</p>

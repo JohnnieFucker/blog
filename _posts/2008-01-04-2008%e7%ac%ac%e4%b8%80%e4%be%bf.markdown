@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: 2008第一便
+author: JohnnieFucker
+wordpress_id: 31
+wordpress_url: http://www.oushit.com/?p=31
+date: '2008-01-04 11:57:59 +0800'
+date_gmt: '2008-01-04 03:57:59 +0800'
+category: The Time Of My Life
+tags: []
+comments: []
+---
+<p>前几天服务器被停了，hanhao回家结婚去了，（恭喜恭喜）一直没有人处理。</p>
+<p>昨天晚上才又重新开通-_-!</p>
+<p>2008，奥运，台湾地区领导人选举，通货膨胀，杂七杂八。。。。。。</p>
+<p>祝大家2008新年快乐</p>
+<p><img src="http://photo14.yupoo.com/20080105/100653_7103767_aelutxbi.jpg" height="800" width="500" /></p>

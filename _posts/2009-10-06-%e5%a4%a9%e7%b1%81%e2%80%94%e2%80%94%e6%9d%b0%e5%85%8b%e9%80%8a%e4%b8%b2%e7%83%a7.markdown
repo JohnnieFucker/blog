@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+title: 天籁——杰克逊串烧
+author: JohnnieFucker
+wordpress_id: 202
+wordpress_url: http://www.oushit.com/?p=202
+date: '2009-10-06 00:27:48 +0800'
+date_gmt: '2009-10-05 16:27:48 +0800'
+category: Some Words
+tags: []
+comments: []
+---
+<p>耶鲁大学古希腊语系在校生Sam Tsui 是个歌唱奇才，他的数学系同学Kurt Schneider 想出了这个神奇的想法，让Sam一人分唱6声部，并把“他们”同时放在画面上……<br />
+<embed src="http://player.youku.com/player.php/sid/XMTIyNDg4ODky/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>

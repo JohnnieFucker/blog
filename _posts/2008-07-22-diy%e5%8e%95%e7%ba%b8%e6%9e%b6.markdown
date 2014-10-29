@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: DIY厕纸架
+author: JohnnieFucker
+wordpress_id: 77
+wordpress_url: http://www.oushit.com/?p=77
+date: '2008-07-22 11:06:31 +0800'
+date_gmt: '2008-07-22 03:06:31 +0800'
+category: The Time Of My Life
+tags:
+- diy
+comments: []
+---
+<p><img src="http://pic.yupoo.com/crazysperm/558405e8c3e6/3nzp4ts5.jpg" alt="" width='500' /><br />
+我办公桌上自己diy的厕纸架，材料：夹子，笔，厕纸。<br />
+被自己囧的不行</p>
