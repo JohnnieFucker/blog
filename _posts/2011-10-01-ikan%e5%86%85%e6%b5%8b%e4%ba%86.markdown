@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: ikan内测了
+author: JohnnieFucker
+excerpt: "<a href=\"http://www.yupoo.com/photos/crazysperm/82911202/\" title=\"flash_640\"><img
+  src=\"http://pic.yupoo.com/crazysperm/Bpvi2A4B/medium.jpg\" alt=\"flash_640\" width=\"333\"
+  height=\"500\" border=\"0\" /></a>\r\nandroid和ios的客户端版本同时发布了内测。可以到<a href=\"http://www.ikan.tv\">www.ikan.tv</a>下载使用！\r\n"
+wordpress_id: 388
+wordpress_url: http://www.oushit.com/?p=388
+date: '2011-10-01 23:51:09 +0800'
+date_gmt: '2011-10-01 15:51:09 +0800'
+category: The Time Of My Life
+tags:
+- 创业
+- dreamix
+- ikan
+comments: []
+---
+<p><a href="http://www.yupoo.com/photos/crazysperm/82911202/" title="flash_640"><img src="http://pic.yupoo.com/crazysperm/Bpvi2A4B/medium.jpg" alt="flash_640" width="333" height="500" border="0" /></a><br />
+android和ios的客户端版本同时发布了内测。可以到<a href="http://www.ikan.tv">www.ikan.tv</a>下载使用！<br />
+<!--break--><a id="more-388"></a><br />
+<a href="http://www.yupoo.com/photos/crazysperm/82911203/" title="icon_512"><img src="http://pic.yupoo.com/crazysperm/Bpvi5UZm/medium.jpg" alt="icon_512" width="500" height="500" border="0" /></a></p>

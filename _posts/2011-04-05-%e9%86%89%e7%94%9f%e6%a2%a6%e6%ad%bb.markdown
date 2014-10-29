@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 醉生梦死
+author: JohnnieFucker
+wordpress_id: 337
+wordpress_url: http://www.oushit.com/?p=337
+date: '2011-04-05 23:22:39 +0800'
+date_gmt: '2011-04-05 15:22:39 +0800'
+category: The Time Of My Life
+tags:
+- 酒
+comments:
+- id: 255
+  author: Helen
+  author_email: chefangzhou@qq.com
+  author_url: ''
+  date: '2011-05-01 20:38:15 +0800'
+  date_gmt: '2011-05-01 12:38:15 +0800'
+  content: "我也觉得宿醉持续时间越来越长了 \r\n刚开始是 睡醒就好 慢慢的是 一上午\r\n现在 觉得 到了下午都还觉得不舒服 \r\n哎 自制啊
+    自制啊"
+---
+<p><a href="http://www.yupoo.com/photos/crazysperm/80474549/" title="2000"><img src="http://pic.yupoo.com/crazysperm/AYgQWpRQ/medium.jpg" alt="2000" width="500" height="346" border="0" /></a><br />
+这段时间总是在muse、patata、漂亮生活这些地方转来转去转来转去，每当夜幕降临，我的生活好像才刚刚开始；等到鸡叫天明，我的睡眠才刚刚来到。神马百威、冰嘉、黑牌、百龄坛、帝王、最夸张的还有香槟；自制力是越来越差，喝醉了好多次，钱也花了不少。每次宿醉之后都要好多天才能恢复元气，毕竟也不再是年少时候了，身体的各种机能都全面退化。短暂的自high之后是无尽的自闭和忧郁，我不由的一遍遍的问自己，这是我想要的生活么？今天看《将爱情进行到底》，中年乐言的一段话很有意思：“我老婆抛弃我的时候，我跟你一样，成天的问这个问那个，答案没得到。自己却变成了一个酒鬼，喝得我直肝儿疼。我以为那叫痛苦，医生说那叫肝硬化！”自制力、自制力、自制力！</p>

@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: 哥当时就笑噴了——bt游戏
+author: JohnnieFucker
+wordpress_id: 286
+wordpress_url: http://www.oushit.com/?p=286
+date: '2011-01-03 23:18:21 +0800'
+date_gmt: '2011-01-03 15:18:21 +0800'
+category: Some Words
+tags:
+- 搞笑
+- 游戏
+- 恶搞
+- bt
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XMjI5NDg2NTM2/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+游戏的地址在<a href="http://www.foddy.net/Athletics.html">http://www.foddy.net/Athletics.html</a><br />
+我操，怎么会有个坑，怎么会有个坑！！！！！！</p>

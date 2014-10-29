@@ -1,0 +1,19 @@
+---
+layout: post
+status: publish
+published: true
+title: 超强悍MV
+author: JohnnieFucker
+wordpress_id: 232
+wordpress_url: http://www.oushit.com/?p=232
+date: '2010-03-04 09:53:15 +0800'
+date_gmt: '2010-03-04 01:53:15 +0800'
+category: The Time Of My Life
+tags:
+- 音乐
+- MV
+- 连锁反应
+comments: []
+---
+<p>　一惯想象力疯狂的OK Go乐队为新歌《Too Shall Pass》拍摄的超强悍MV。<br />
+<embed src="http://player.youku.com/player.php/sid/XMTU1NzI1NTU2/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>

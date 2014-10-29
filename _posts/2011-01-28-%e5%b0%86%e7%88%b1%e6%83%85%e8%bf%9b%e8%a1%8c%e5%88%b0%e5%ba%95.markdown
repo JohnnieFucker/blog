@@ -1,0 +1,25 @@
+---
+layout: post
+status: publish
+published: true
+title: 将爱情进行到底
+author: JohnnieFucker
+excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMjMwNDAwNDAw/v.swf\"
+  quality=\"high\" width=\"480\" height=\"400\" align=\"middle\" allowScriptAccess=\"sameDomain\"
+  type=\"application/x-shockwave-flash\"></embed>\r\n12年，彼时彼刻，哥还很小，还很萌动！！不得不佩服小柯，真的是个人才。\r\n"
+wordpress_id: 288
+wordpress_url: http://www.oushit.com/?p=288
+date: '2011-01-28 20:39:05 +0800'
+date_gmt: '2011-01-28 12:39:05 +0800'
+category: The Time Of My Life
+tags:
+- 音乐
+- 爱情
+comments: []
+---
+<p><embed src="http://player.youku.com/player.php/sid/XMjMwNDAwNDAw/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+12年，彼时彼刻，哥还很小，还很萌动！！不得不佩服小柯，真的是个人才。<br />
+<!--break--><a id="more-288"></a><br />
+<embed src="http://player.youku.com/player.php/sid/XMjM1ODgzMzc2/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+<embed src="http://player.youku.com/player.php/sid/XMjMyNjAzMzA4/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed><br />
+<embed src="http://player.youku.com/player.php/sid/XMjA1OTE2NzUy/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed></p>

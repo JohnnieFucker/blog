@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: XP任务栏出现两个重复图标的解决办法(转)
+author: JohnnieFucker
+wordpress_id: 46
+wordpress_url: http://www.oushit.com/?p=46
+date: '2008-03-10 09:20:31 +0800'
+date_gmt: '2008-03-10 01:20:31 +0800'
+category: The Time Of My Life
+tags:
+- XP
+- 任务栏
+comments: []
+---
+<p>以前每次遇到都要上网去搜，今天记到这里，免的以后找</p>
+<p>网上查了半天，终于解决了。　　　以前只删注册表里的那三个东西，只管用几天。</p>
+<p>找了半天，这个还不用重启计算机，不错。</p>
+<p>打开写字板:</p>
+<p>输入以下信息:(不含end if 后面的横线)</p>
+<p>Set WSHShell = WScript.CreateObject("WScript.Shell")<br />
+Message = "本脚本用于修复Windows <strong style="color: black; background-color: #ffff66">XP</strong>中当最小化程序时，无法在<strong style="color: black; background-color: #a0ffff">任务栏</strong>显示图标的问题。"&amp; vbCR &amp; vbCR<br />
+Message = Message &amp; "为了正常工作，本脚本将关闭和重启 Windows Explorer 外壳，这个操作不会损坏你的系统。" &amp; vbCR &amp; vbCR<br />
+Message = Message &amp; "请关闭所有杀毒软件的实时监控！并保存所有打开的文件。"&amp; vbCR &amp; vbCR<br />
+Message = Message &amp; "是否继续？"</p>
+<p>X = MsgBox(Message, vbYesNo+vbExclamation, "注意")</p>
+<p>If X = 6 Then</p>
+<p>On Error Resume Next</p>
+<p>WshShell.RegDelete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects2\"<br />
+WshShell.RegDelete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StreamsMRU\"<br />
+WshShell.RegDelete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Streams\Desktop\"</p>
+<p>WshShell.RegDelete "HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\{32683183-48a0-441b-a342-7c2a440a9478}\BarSize"</p>
+<p>P1 = "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\"</p>
+<p>WshShell.RegWrite p1 &amp; "NoBandCustomize", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoMovingBands", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoCloseDragDropBands", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoSetTaskbar", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoToolbarsOnTaskbar", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoSaveSettings",0,"REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoToolbarsOnTaskbar", 0, "REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoSetTaskbar",0,"REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "NoActiveDesktop",0,"REG_DWORD"<br />
+WshShell.RegWrite p1 &amp; "ClassicShell",0,"REG_DWORD"</p>
+<p>p1 = "HKCU\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\本地User\Software\Microsoft\Windows\CurrentVersion\Policies\ Explorer\"</p>
+<p>WshShell.RegWrite p1 &amp; "NoCloseDragDropBands", 0, "REG_DWORD"<br />
+WshShell.RegDelete p1 &amp; "NoMovingBands"</p>
+<p>p1 = "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell"</p>
+<p>WshShell.RegWrite p1, "explorer.exe", "REG_SZ"</p>
+<p>p1 = "HKCU\Software\Microsoft\Internet Explorer\Explorer Bars\{32683183-48a0-441b-a342-7c2a440a9478}\"<br />
+WshShell.RegDelete p1 &amp; "BarSize"<br />
+WshShell.RegWrite p1, "媒体区", "REG_SZ"</p>
+<p>On Error Goto 0</p>
+<p>For Each Process in GetObject("winmgmts:"). _<br />
+ExecQuery ("select * from Win32_Process where name='explorer.exe'")<br />
+Process.terminate(0)<br />
+Next</p>
+<p>MsgBox "完成！" &amp; vbcr &amp; vbcr &amp; "?Kelly Theriot and Doug Knox", 4096, "完成"</p>
+<p>Else</p>
+<p>MsgBox "没有对你的系统进行任何改变。" &amp; vbcr &amp; vbcr &amp; "?Kelly Theriot and Doug Knox", 4096, "用户取消了"</p>
+<p>End If</p>
+<p>___________________________________________________________</p>
+<p>保存为扩展名是VBS的文件.双击执行该脚本.</p>

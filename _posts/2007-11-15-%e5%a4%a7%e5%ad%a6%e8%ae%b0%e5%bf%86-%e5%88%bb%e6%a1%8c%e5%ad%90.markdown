@@ -1,0 +1,40 @@
+---
+layout: post
+status: publish
+published: true
+title: 大学记忆--刻桌子
+author: JohnnieFucker
+excerpt: "回头想想，大学留给了我很多美好的回忆\r\n虽然也有比较痛苦的......orz\r\n感谢马儿虫同学用手机拍下了男模这精彩的一幕\r\n让我在毕业一年多以后\r\n能够再次回想起学生时代那简单的快乐\r\n"
+wordpress_id: 12
+wordpress_url: http://www.oushit.com/?p=12
+date: '2007-11-15 21:06:56 +0800'
+date_gmt: '2007-11-15 13:06:56 +0800'
+category: The Time Of My Life
+tags:
+- 大学
+- 回忆
+- 考试
+comments:
+- id: 9
+  author: gothic
+  author_email: vivienleefly@gmail.com
+  author_url: ''
+  date: '2007-11-16 11:33:00 +0800'
+  date_gmt: '2007-11-16 03:33:00 +0800'
+  content: "这个是在新楼哇\r\n想念成都啊。。。。"
+- id: 10
+  author: 视屎如瑰
+  author_email: crazysperm@gmail.com
+  author_url: http://www.oushit.com
+  date: '2007-11-16 11:46:56 +0800'
+  date_gmt: '2007-11-16 03:46:56 +0800'
+  content: '是啊，拍摄于某堂在新楼考试之前 :em03:'
+---
+<p>回头想想，大学留给了我很多美好的回忆<br />
+虽然也有比较痛苦的......orz<br />
+感谢马儿虫同学用手机拍下了男模这精彩的一幕<br />
+让我在毕业一年多以后<br />
+能够再次回想起学生时代那简单的快乐<br />
+<!--break--><a id="more-12"></a><br />
+<img src="http://upload.qiezi.com/photo4/clone/70762/o78846300828_500.jpg" height="374" width="500" /><br />
+<img src="http://upload.qiezi.com/photo4/clone/70762/o82844231121_500.jpg" height="374" width="500" /></p>

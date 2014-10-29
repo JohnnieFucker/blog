@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: oushit is come back
+author: JohnnieFucker
+wordpress_id: 56
+wordpress_url: http://www.oushit.com/?p=56
+date: '2008-06-03 13:21:16 +0800'
+date_gmt: '2008-06-03 05:21:16 +0800'
+category: The Time Of My Life
+tags: []
+comments: []
+---
+<p>前段时间因为网站备案的原因，被迫关闭了一段时间。做为一个blogger，错了过圣火传递，错过了汶川地震。</p>
+<p>还好，现在我又回来了，网站架到国外了，去TMD无聊的网站备案。</p>
+<p>ps:随便把wp升级到了2.5.1，过程比我想象顺利多了，插件居然都还能用：）</p>

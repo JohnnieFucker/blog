@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: 很黄很暴力的对联
+author: JohnnieFucker
+wordpress_id: 38
+wordpress_url: http://www.oushit.com/?p=38
+date: '2008-01-25 13:07:52 +0800'
+date_gmt: '2008-01-25 05:07:52 +0800'
+category: The Time Of My Life
+tags:
+- 诗歌
+- 对联
+comments: []
+---
+<p>今天紫龙写了一副对联</p>
+<p>胸中有丘壑，使一支画笔绘出千里河山</p>
+<p>动静皆风云，将两行代码谱成万丈豪情</p>
+<p>横批：创意无限</p>
+<p>互动娱乐综合项目部 bluewan（万亿）</p>
+<p>在公司dota群里，我回了一副</p>
+<p>胸前波涛涌，用一根皮鞭抽打春风化雨<br />
+背后股沟露， 使两对蜡烛滴出儿女情长<br />
+横批：女王万岁</p>
+<p>哎，很黄很暴力-_-!</p>
