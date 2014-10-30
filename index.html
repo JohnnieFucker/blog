@@ -31,7 +31,7 @@ title: 屎样年华
         {% if paginator.previous_page %}
             <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">上一页</a>
         {% endif %}
-        {% if paginator.page >4 %}
+        {% if paginator.page > 4 %}
         <span>…</span>
         {% endif %}
         {% for page in (1..paginator.total_pages) %}
@@ -40,12 +40,12 @@ title: 屎样年华
             {% elsif page == 1 %}
                 <a href="/index.html">首页</a>
             {% else %}
-        {% if page > paginator.page and page - paginator.page < 2 or paginator.page > page and paginator.page - page <2%}
+        {% if page > paginator.page and page|minus:paginator.page < 2 or paginator.page > page and paginator.page|minus:page <2%}
                 <a href="{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
         {% endif %}
             {% endif %}
         {% endfor %}
-        {% if paginator.page + 3 < paginator.total_pages %}
+        {% if paginator.page|plus:3 < paginator.total_pages %}
         <span>…</span>
         {% endif %}
         {% if paginator.next_page %}
