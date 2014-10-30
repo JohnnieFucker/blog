@@ -56,6 +56,8 @@ title: 屎样年华
         {% assign c3 = paginator.page|plus:2 %}
         {% if c3 < paginator.total_pages %}
         <span>…</span>
+        <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{paginator.total_pages }}</a>
+        {% endif %}
         {% endif %}
         {% if paginator.next_page %}
             <a href="{{ paginator.next_page_path|replace: '//', '/' }}">下一页</a>
