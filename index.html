@@ -23,7 +23,7 @@ title: 屎样年华
         <div>
             {{ post.content  | | split:'<!--break-->' | first }}
         </div>
-        <a href="{{site.baseurl}}{{post.url}}" class="post-read-more">阅读全文</a>
+        <a href="{{post.url}}" class="post-read-more">阅读全文</a>
     </div>
     <div class="post-end-line"></div>
     {% endfor %}
