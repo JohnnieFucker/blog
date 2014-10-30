@@ -9,7 +9,7 @@ wordpress_id: 86
 wordpress_url: http://www.oushit.com/?p=86
 date: '2008-10-19 17:42:19 +0800'
 date_gmt: '2008-10-19 09:42:19 +0800'
-category: The Time Of My Life
+category: Some Words
 tags:
 - 搞笑
 comments:

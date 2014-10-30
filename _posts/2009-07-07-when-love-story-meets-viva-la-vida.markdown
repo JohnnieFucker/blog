@@ -12,7 +12,7 @@ wordpress_id: 178
 wordpress_url: http://www.oushit.com/?p=178
 date: '2009-07-07 17:54:31 +0800'
 date_gmt: '2009-07-07 09:54:31 +0800'
-category: The Time Of My Life
+category: Music
 tags:
 - 音乐
 comments: []

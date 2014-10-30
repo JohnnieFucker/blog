@@ -10,7 +10,7 @@ wordpress_id: 45
 wordpress_url: http://www.oushit.com/?p=45
 date: '2008-03-05 10:01:04 +0800'
 date_gmt: '2008-03-05 02:01:04 +0800'
-category: The Time Of My Life
+category: Some Words
 tags:
 - 艳照门
 - 英语

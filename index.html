@@ -31,26 +31,29 @@ title: 屎样年华
         {% if paginator.previous_page %}
             <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">上一页</a>
         {% endif %}
+        {% if paginator.page == 1 %}
+            <span class="active">1</span>
+        {% else %}
+            <a href="/index.html">1</a>
+        {% endif %}
         {% if paginator.page > 4 %}
         <span>…</span>
         {% endif %}
-        {% for page in (1..paginator.total_pages) %}
+        {% for page in (2..paginator.total_pages) %}
             {% if page == paginator.page %}
                 <span class="active">{{ page }}</span>
-            {% elsif page == 1 %}
-                <a href="/index.html">首页</a>
             {% else %}
                 {% assign c1 = page|minus:paginator.page %}
                 {% assign c2 = paginator.page|minus:page %}
-                {% if page > paginator.page and c1 < 2 %}
-                      <a href="{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                {% if page > paginator.page and c1 < 3 %}
+                      <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
                 {% endif %}
-                {% if paginator.page > page and c2 <2%}
-                      <a href="{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+                {% if paginator.page > page and c2 < 3 %}
+                      <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
                 {% endif %}
             {% endif %}
         {% endfor %}
-        {% assign c3 = paginator.page|plus:3 %}
+        {% assign c3 = paginator.page|plus:2 %}
         {% if c3 < paginator.total_pages %}
         <span>…</span>
         {% endif %}

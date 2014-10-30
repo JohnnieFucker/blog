@@ -8,7 +8,7 @@ wordpress_id: 460
 wordpress_url: http://www.oushit.com/?p=460
 date: '2012-06-12 23:24:08 +0800'
 date_gmt: '2012-06-12 15:24:08 +0800'
-category: The Time Of My Life
+category: Music
 tags:
 - 音乐
 - 青春

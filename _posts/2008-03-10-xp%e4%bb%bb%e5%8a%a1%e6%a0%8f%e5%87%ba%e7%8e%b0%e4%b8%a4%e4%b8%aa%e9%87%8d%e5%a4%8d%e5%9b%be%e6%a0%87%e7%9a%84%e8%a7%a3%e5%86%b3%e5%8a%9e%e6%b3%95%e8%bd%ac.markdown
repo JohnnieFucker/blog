@@ -8,7 +8,7 @@ wordpress_id: 46
 wordpress_url: http://www.oushit.com/?p=46
 date: '2008-03-10 09:20:31 +0800'
 date_gmt: '2008-03-10 01:20:31 +0800'
-category: The Time Of My Life
+category: Some Words
 tags:
 - XP
 - 任务栏

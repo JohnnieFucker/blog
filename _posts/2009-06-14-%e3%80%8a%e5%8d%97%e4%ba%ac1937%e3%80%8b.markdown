@@ -8,7 +8,7 @@ wordpress_id: 171
 wordpress_url: http://www.oushit.com/?p=171
 date: '2009-06-14 19:42:59 +0800'
 date_gmt: '2009-06-14 11:42:59 +0800'
-category: The Time Of My Life
+category: Music
 tags: []
 comments: []
 ---

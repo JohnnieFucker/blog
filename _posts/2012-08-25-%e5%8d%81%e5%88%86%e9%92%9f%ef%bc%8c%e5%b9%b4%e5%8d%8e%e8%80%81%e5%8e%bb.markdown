@@ -11,7 +11,7 @@ wordpress_id: 469
 wordpress_url: http://www.oushit.com/?p=469
 date: '2012-08-25 23:46:14 +0800'
 date_gmt: '2012-08-25 15:46:14 +0800'
-category: The Time Of My Life
+category: Music
 tags:
 - 音乐
 - 爱情

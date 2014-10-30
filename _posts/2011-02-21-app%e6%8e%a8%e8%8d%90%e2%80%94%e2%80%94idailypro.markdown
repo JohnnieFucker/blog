@@ -10,7 +10,7 @@ wordpress_id: 298
 wordpress_url: http://www.oushit.com/?p=298
 date: '2011-02-21 15:18:41 +0800'
 date_gmt: '2011-02-21 07:18:41 +0800'
-category: The Time Of My Life
+category: Some Words
 tags:
 - 英语
 - app

@@ -10,7 +10,7 @@ wordpress_id: 85
 wordpress_url: http://www.oushit.com/?p=85
 date: '2008-10-09 11:18:17 +0800'
 date_gmt: '2008-10-09 03:18:17 +0800'
-category: The Time Of My Life
+category: Some Words
 tags:
 - 设计
 comments:

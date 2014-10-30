@@ -14,7 +14,7 @@ wordpress_id: 83
 wordpress_url: http://www.oushit.com/?p=83
 date: '2008-09-18 12:21:21 +0800'
 date_gmt: '2008-09-18 04:21:21 +0800'
-category: The Time Of My Life
+category: Music
 tags:
 - 音乐
 - 中国

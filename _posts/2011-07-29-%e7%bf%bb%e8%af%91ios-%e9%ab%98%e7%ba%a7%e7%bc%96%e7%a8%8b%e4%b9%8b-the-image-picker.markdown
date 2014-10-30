@@ -11,7 +11,7 @@ wordpress_id: 374
 wordpress_url: http://www.oushit.com/?p=374
 date: '2011-07-29 01:35:23 +0800'
 date_gmt: '2011-07-28 17:35:23 +0800'
-category: Some Words
+category: Technology
 tags:
 - 翻译
 - ios
