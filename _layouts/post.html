@@ -30,22 +30,67 @@
             </div>
             <div class="info-container">
                 <div class="post-title">{{ page.title }}</div>
-                <span class="post-date">{{ page.date |date: "%F %H:%M" }}{% if page.author %} by {{page.author}}{%endif%} {% if page.category%} in {{page.category }}{% endif %}</span>
+                <span class="post-date">{{ page.date |date: "%F %H:%M" }}{% if page.author %} by {{page.author}}{%endif%} {% if page.category%} in <a href="/category.html?category={{page.category}}">{{page.category}}</a>{% endif %}</span>
+                {% for tag in page.tags %}
+                    <a href="/tags.html?tag={{tag}}"><span class="post-tag">{{tag}}</span></a>
+                {% endfor %}
             </div>
         </div>
         <div class="post">
             {{ content }}
         </div>
-        <div class="related">
+        <div class="related" id="relate-box">
             <h2>Related Posts</h2>
-            <ul class="posts">
-                {% for post in site.related_posts limit:5 %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
+            <ul class="posts" id="relate-list">
+
             </ul>
         </div>
     </div>
 </div>
 <script src="/scripts/responsive.js" type="text/javascript"></script>
+<script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var cate = '';
+        $('#tag-name').html(cate);
+        $('#tag-list').html('');
+        $('#relate-box').hide();
+        var post_array = new Array();
+        var post_array2 = new Array();
+        if (cate && cate != '' && cate != 'null') {
+            $.getJSON("/posts.json", function (posts) {
+                $.each(posts, function (index, post) {
+                    if($.inArray(cate,post.tags) >-1 ){
+                        post_array.push(post_array);
+                    }
+                });
+            });
+            if(post_array.length>5){
+               var key_array= new Array();
+               while(true){
+                  var i = parseInt(Math.random()*(post_array.length),10);
+                  if(!$.inArray(i,key_array)){
+                      key_array.push(i);
+                  }
+                   if(key_array.length==5){
+                       break;
+                   }
+               }
+                $.each(key_array,function(index,k){
+                    post_array2.push(post_array[i]);
+                });
+            }else{
+                post_array2 = post_array;
+            }
+            $.each(post_array2,function(index,post){
+                var li = '<li><a href="'+post.url+'">'+post.date+' '+post.title+'</a></li>';
+                $('#relate-list').append(li);
+            });
+            if(post_array2.length>0){
+                $('#relate-box').show();
+            }
+        }
+    });
+</script>
 </body>
 </html>

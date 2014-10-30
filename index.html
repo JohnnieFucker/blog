@@ -16,7 +16,7 @@ title: 屎样年华
         <div class="info-container">
             <a href="{{post.url}}" class="post-title">{{ post.title }}</a>
             <span class="post-date">{{ post.date | date:"%F %H:%M"}}</span>
-            <span class="post-date">{{post.category}}</span>
+            <a href="/category.html?category={{post.category}}"><span class="post-date">{{post.category}}</span></a>
         </div>
     </div>
     <div class="post">

@@ -82,6 +82,9 @@ embed{
   text-align: center;
   line-height: 1.75em;
 }
+.cate-list{
+    margin-top: 2em;
+}
 
 /*****************************************************************************/
 /*
@@ -160,7 +163,7 @@ embed{
   line-height: 40px;
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 1.25em;
+  font-size: 1.2em;
 }
 
 .post {

@@ -1,0 +1,38 @@
+---
+layout: default
+title: 屎样年华
+---
+<div class="content" id="home">
+    <div id="sidebar-button">
+        <img src="/images/sidebar-button.png">
+    </div>
+    <div class="cate-list">
+        <h2 id="cate-name"></h2>
+        <ul class="posts" id="cate-list">
+
+        </ul>
+    </div>
+</div>
+<script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
+<script>
+    function getURLParameter(name) {
+        return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1]
+        );
+    }
+    $(document).ready(function () {
+        var cate = getURLParameter('category');
+        $('#cate-name').html(cate);
+        $('#cate-list').html('');
+        if (cate && cate != '' && cate != 'null') {
+            $.getJSON("/posts.json", function (posts) {
+                $.each(posts, function (index, post) {
+                    if(post.category==cate){
+                        var li = '<li><a href="'+post.url+'">'+post.date+' '+post.title+'</a></li>';
+                        $('#cate-list').append(li);
+                    }
+                });
+            });
+        }
+    });
+</script>
