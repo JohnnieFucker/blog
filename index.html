@@ -29,7 +29,7 @@ title: 屎样年华
     {% endfor %}
     <div class="pager">
         {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">上一页</a>
+            <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">prev</a>
         {% endif %}
         {% if paginator.page == 1 %}
             <span class="active">1</span>
@@ -53,14 +53,15 @@ title: 屎样年华
                 {% endif %}
             {% endif %}
         {% endfor %}
-        {% assign c3 = paginator.page|plus:2 %}
+        {% assign c3 = paginator.page|plus:3 %}
         {% if c3 < paginator.total_pages %}
-        <span>…</span>
-        <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{paginator.total_pages }}</a>
+            <span>…</span>
         {% endif %}
-        {% endif %}
+        {% if  c3 <= paginator.total_pages %}
+            <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{paginator.total_pages }}</a>
+        {% endif%}
         {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path|replace: '//', '/' }}">下一页</a>
+            <a href="{{ paginator.next_page_path|replace: '//', '/' }}">next</a>
         {% endif %}
     </div>
 </div>
