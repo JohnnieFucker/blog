@@ -3,4 +3,5 @@ timezone : Asia/Shanghai
 baseurl : /
 paginate : 5
 paginate_path: "page:num"
+pygments: true
 
