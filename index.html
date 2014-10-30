@@ -28,17 +28,22 @@ title: 屎样年华
     <div class="post-end-line"></div>
     {% endfor %}
     <div class="pager">
-{% for page in (1..paginator.total_pages) %}
-{% if page == paginator.page %}
-<span class="active">{{ page }}</span>
-{% elsif page == 1 %}
-<a href="{{ '/index.html' | prepend: site.url | replace: '//', '/' }}">{{ page }}</a>
-{% else %}
-<a href="{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-{% endif %}
-{% endfor %}
-{% if paginator.next_page %}
-<a href="{{ paginator.next_page_path|replace: '//', '/' }}">下一页</a>
-{% endif %}
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">上一页</a>
+        {% endif %}
+        {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+                <span class="active">{{ page }}</span>
+            {% elsif page == 1 %}
+                <a href="/index.html">首页</a>
+            {% else %}
+        {% if page > paginator.page and page - paginator.page < 2 or paginator.page > page and paginator.page - page <2%}
+                <a href="{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% endif %}
+            {% endif %}
+        {% endfor %}
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path|replace: '//', '/' }}">下一页</a>
+        {% endif %}
     </div>
 </div>
