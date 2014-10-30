@@ -1,3 +1,5 @@
+lsi : true
+timezone : Asia/Shanghai
 baseurl : /
 paginate : 5
 paginate_path: "page:num"
