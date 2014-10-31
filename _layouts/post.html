@@ -68,6 +68,16 @@
                         }
                     });
                 });
+                $.each(post_array,function(index,post){
+                    var li = '<li><a href="'+post.url+'">'+post.date+' '+post.title+'</a></li>';
+                    $('#relate-list').append(li);
+                    if(index>4){
+                        return false;
+                    }
+                });
+                if(post_array.length>0){
+                    $('#relate-box').show();
+                }
             });
             /*
             if(post_array.length>5){
@@ -88,16 +98,7 @@
                 post_array2 = post_array;
             }
             */
-            $.each(post_array,function(index,post){
-                var li = '<li><a href="'+post.url+'">'+post.date+' '+post.title+'</a></li>';
-                $('#relate-list').append(li);
-                if(index>4){
-                    return false;
-                }
-            });
-            if(post_array.length>0){
-                $('#relate-box').show();
-            }
+
         }
     });
 </script>
