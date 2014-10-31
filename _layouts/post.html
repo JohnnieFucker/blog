@@ -51,18 +51,22 @@
 <script src="http://lib.sinaapp.com/js/jquery/1.9.1/jquery-1.9.1.min.js"></script>
 <script>
     $(document).ready(function () {
-        var cate = '';
-        $('#tag-name').html(cate);
-        $('#tag-list').html('');
+        var tags = new Array();
+        $.each($('.post-tag'),function(i,tag){
+            tags.push($(tag).text());
+        });
         $('#relate-box').hide();
         var post_array = new Array();
         var post_array2 = new Array();
-        if (cate && cate != '' && cate != 'null') {
+        if (cate.length>0) {
             $.getJSON("/posts.json", function (posts) {
                 $.each(posts, function (index, post) {
-                    if($.inArray(cate,post.tags) >-1 ){
-                        post_array.push(post_array);
-                    }
+                    $.each(tags,function(index2,tag){
+                        if($.inArray(tag,post.tags) >-1 ){
+                            post_array.push(post_array);
+                            return false;
+                        }
+                    });
                 });
             });
             if(post_array.length>5){
@@ -77,7 +81,7 @@
                    }
                }
                 $.each(key_array,function(index,k){
-                    post_array2.push(post_array[i]);
+                    post_array2.push(post_array[k]);
                 });
             }else{
                 post_array2 = post_array;
