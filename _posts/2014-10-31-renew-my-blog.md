@@ -2,7 +2,7 @@
 layout: post
 title: 继续blog
 author: JohnnieFucker
-date: '2014年10月31日 下午6:45'
+date: '2014-10-31 18:54'
 category: The Time Of My Life
 ---
 <p>已经有很久一段时间没有更新过我的blog了。当然，忙总是最佳的也是最无理的借口。在这个越发快速的时代，花一些时间写一些有营养的东西，已经显得无比的奢侈。</p>
