@@ -58,7 +58,7 @@
         $('#relate-box').hide();
         var post_array = new Array();
         var post_array2 = new Array();
-        if (cate.length>0) {
+        if (tags.length>0) {
             $.getJSON("/posts.json", function (posts) {
                 $.each(posts, function (index, post) {
                     $.each(tags,function(index2,tag){
