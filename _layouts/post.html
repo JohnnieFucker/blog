@@ -73,7 +73,7 @@
                var key_array= new Array();
                while(true){
                   var i = parseInt(Math.random()*(post_array.length),10);
-                  if(!$.inArray(i,key_array)){
+                  if($.inArray(i,key_array)<0){
                       key_array.push(i);
                   }
                    if(key_array.length==5){
