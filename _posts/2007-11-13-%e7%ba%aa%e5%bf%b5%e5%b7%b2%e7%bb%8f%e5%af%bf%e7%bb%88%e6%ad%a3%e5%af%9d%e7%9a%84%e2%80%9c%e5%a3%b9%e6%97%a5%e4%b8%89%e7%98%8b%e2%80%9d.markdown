@@ -29,7 +29,7 @@ comments:
   author_url: http://www.oushit.com
   date: '2007-11-13 21:43:10 +0800'
   date_gmt: '2007-11-13 13:43:10 +0800'
-  content: "Highslide\r\n效果是很炫\r\n但是由于要加载放大的图片\r\nyupoo又经常很慢\r\n建议还是不要用了\r\n不然白白增加页面的加载时间\r\n当然拿来研究一下倒是不错"
+  content: "Highslide 效果是很炫  但是由于要加载放大的图片  yupoo又经常很慢  建议还是不要用了  不然白白增加页面的加载时间  当然拿来研究一下倒是不错"
 - id: 6
   author: 视屎如瑰
   author_email: crazysperm@gmail.com
