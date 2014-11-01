@@ -156,6 +156,7 @@ embed{
     margin-bottom: 1.5em;
 }
 .info-container {
+    margin-bottom: 1.5em;
 }
 
 .category-title {
@@ -181,10 +182,12 @@ embed{
   margin-bottom: 1.25em;
 }
 .post img{
-    width: 100%;
     display: block;
-    margin: 1em auto;
-
+    margin-bottom:1em;
+    margin-top: 1em;
+}
+.index-content .post img{
+    width: 100%;
 }
 
 .post a,
