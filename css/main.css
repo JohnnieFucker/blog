@@ -200,11 +200,16 @@ embed{
     color:#999;
 }
 .post-tag{
-    color:#999;
-    font-size: 0.8em;
-    padding:0 0.2em;
-    background:#ffff66;
-    border-radius: 2px;
+    border-radius: 0.25em;
+    color: #fff;
+    display: inline;
+    font-size: 75%;
+    line-height: 1;
+    padding: 0.2em 0.6em 0.3em;
+    text-align: center;
+    vertical-align: baseline;
+    white-space: nowrap;
+    background: #5bc0de;
 }
 
 
