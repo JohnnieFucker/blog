@@ -196,6 +196,18 @@ embed{
   border-bottom: 1px solid #8085C1;
 }
 
+.post-category{
+    color:#999;
+}
+.port-tag{
+    color:#999;
+    font-size: 0.8em;
+    padding:0 0.2em;
+    background:#ffff66;
+    border-radius: 2px;
+}
+
+
 .post a:hover {
     border-bottom: 1px solid #777;
 }
