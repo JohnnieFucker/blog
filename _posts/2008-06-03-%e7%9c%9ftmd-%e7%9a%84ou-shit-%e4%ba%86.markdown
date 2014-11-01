@@ -4,7 +4,7 @@ status: publish
 published: true
 title: oushit is come back
 author: JohnnieFucker
-wordpress_id: 56
+post_id: 56
 wordpress_url: http://www.oushit.com/?p=56
 date: '2008-06-03 13:21:16 +0800'
 date_gmt: '2008-06-03 05:21:16 +0800'

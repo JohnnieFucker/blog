@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 荔枝节II
 author: JohnnieFucker
-wordpress_id: 72
+post_id: 72
 wordpress_url: http://www.oushit.com/?p=72
 date: '2008-07-03 22:47:49 +0800'
 date_gmt: '2008-07-03 14:47:49 +0800'

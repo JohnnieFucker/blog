@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<img src=\"http://www.time1982.cn/wp-content/uploads/2011/04/3f4407f5876d9ca228c184af843a2e5d.jpg\"
   alt=\"\" width='500px' />\r\nHow many roads must a man walk down \r\nBefore they
   call him a man \r\nBob Dylan《Blowing In The Wind》\r\n"
-wordpress_id: 469
+post_id: 469
 wordpress_url: http://www.oushit.com/?p=469
 date: '2012-08-25 23:46:14 +0800'
 date_gmt: '2012-08-25 15:46:14 +0800'

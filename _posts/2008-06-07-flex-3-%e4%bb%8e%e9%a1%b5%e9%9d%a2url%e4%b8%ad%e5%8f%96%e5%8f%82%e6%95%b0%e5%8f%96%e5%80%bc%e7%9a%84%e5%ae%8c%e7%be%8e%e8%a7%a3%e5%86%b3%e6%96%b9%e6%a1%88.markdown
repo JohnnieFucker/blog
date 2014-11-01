@@ -4,7 +4,7 @@ status: publish
 published: true
 title: flex 3 从页面url中取参数取值的完美解决方案
 author: JohnnieFucker
-wordpress_id: 60
+post_id: 60
 wordpress_url: http://www.oushit.com/?p=60
 date: '2008-06-07 11:20:26 +0800'
 date_gmt: '2008-06-07 03:20:26 +0800'

@@ -8,7 +8,7 @@ excerpt: "<a href=\"http://www.yupoo.com/photos/view?id=ff808081230284b2012302ba
   title=\"来YUPOO看我的照片\"><img src=\"http://pic.yupoo.com/crazysperm/053397e322c6/medium.jpg\"
   alt=\"P8091245\" width=\"500\" height=\"375\" border=\"0\" /></a>\r\n托朋友在香港买了mac的学生机，拿回来之后觉得有点后悔，还是该买mac
   pro，小白太白了，感觉好容易弄脏。先来跟我的小黑T61来张合影，黑白分明，真是帅。\r\n"
-wordpress_id: 191
+post_id: 191
 wordpress_url: http://www.oushit.com/?p=191
 date: '2009-08-12 02:05:36 +0800'
 date_gmt: '2009-08-11 18:05:36 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 秋
 author: JohnnieFucker
-wordpress_id: 463
+post_id: 463
 wordpress_url: http://www.oushit.com/?p=463
 date: '2012-08-22 15:27:27 +0800'
 date_gmt: '2012-08-22 07:27:27 +0800'

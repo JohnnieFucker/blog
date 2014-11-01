@@ -8,7 +8,7 @@ excerpt: "<a title=\"IMAG0219\" href=\"http://www.yupoo.com/photos/crazysperm/80
   target=\"_blank\"><img src=\"http://pic.yupoo.com/crazysperm/AT6qS8to/medium.jpg\"
   border=\"0\" alt=\"IMAG0219\" width=\"500\" height=\"299\" /></a>\r\n    近期虽然要面对很多纷扰，但是总算是开始慢慢履行自己新的一年的KPI计划，第一：晚上早点睡。第二：尽量克制自己的懒散。第三：学习、提高、自我增值。坦白来讲，现在做的并不好，但是起码脑子里面有个声音开始不断的在提醒自己。对于我这个超典型火相射手来说，已经算是蹒跚起步难能可贵了，说到底，敌人还是自己，赢了自己放眼天下可能真就能到独孤求败的境界。说到这里，想起自己以前练跆拳道的经历，套路，身法都可以忘，但是跆拳道“礼仪
   廉耻 忍耐 克己 百折不屈”的“道”我是始终都不敢忘却的，即使我无法达到这至高的境界，我也在心中不断的提醒着自己。\r\n\r\n"
-wordpress_id: 308
+post_id: 308
 wordpress_url: http://www.oushit.com/?p=308
 date: '2011-03-03 19:39:38 +0800'
 date_gmt: '2011-03-03 11:39:38 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 端午节快乐
 author: JohnnieFucker
-wordpress_id: 61
+post_id: 61
 wordpress_url: http://www.oushit.com/?p=61
 date: '2008-06-07 19:12:07 +0800'
 date_gmt: '2008-06-07 11:12:07 +0800'

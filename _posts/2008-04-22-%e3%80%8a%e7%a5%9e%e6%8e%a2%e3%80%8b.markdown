@@ -6,7 +6,7 @@ title: 《神探》
 author: JohnnieFucker
 excerpt: "<img src=\"http://www.vodgod.cn/images/uploadimg/200813117285921480.jpg\"
   />\r\n导演：杜琪峰&amp;韦家辉\r\n主演：刘青云\r\n\r\n光是冲着二位导演，我就很看好这部电影了。再加上有我很喜欢的实力影帝青云哥。恩，直觉上应该是部不错的电影。\r\n而且这次不像《铁三角》，三个人各拍一部分，再加上内地广电总局一改，烂到极点。两位导演合作无间，拍出了《枪火》《暗花》《无间道》的混合版。\r\n"
-wordpress_id: 55
+post_id: 55
 wordpress_url: http://www.oushit.com/?p=55
 date: '2008-04-22 23:03:47 +0800'
 date_gmt: '2008-04-22 15:03:47 +0800'

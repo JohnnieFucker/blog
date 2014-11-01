@@ -6,7 +6,7 @@ title: BT小熊猫
 author: JohnnieFucker
 excerpt: "<a href=\"http://photo14.yupoo.com/20071218/202914_838734391_sxwlcril.jpg\"><img
   src=\"http://photo14.yupoo.com/20071218/202914_838734391.jpg\" /></a>\r\n今天跑去看小熊猫qzone上面的照片，发现这孩子还真是一个闷骚型BT男。\r\n\r\n上图据说是大学时代自己改装的手机充电器。很好很强大，看的我那一个寒啊！对于他浪费国家木材的行径，本人表示强烈鄙视。\r\n"
-wordpress_id: 28
+post_id: 28
 wordpress_url: http://www.oushit.com/?p=28
 date: '2007-12-18 20:55:18 +0800'
 date_gmt: '2007-12-18 12:55:18 +0800'

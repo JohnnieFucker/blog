@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMTI2NTUzNjg0/v.swf\"
   allowFullScreen=\"true\" quality=\"high\" width=\"480\" height=\"400\" align=\"middle\"
   allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"></embed>\r\n上周5在东区音乐公园去看了痛仰的巡演。全场一起高唱《西湖》的时候，我觉得：洒家这辈子～～值了～～！\r\n中间乐队休息的时候，吉他手宋捷单独出来唱了两首自己的单曲，其中就有这首《我会想起你》。这首有点小清新的歌曲收录在宋捷的个人ep专辑《在小时候的黄昏见》，光看这名字就能feel到这短短只有几首歌的专辑是多么的文艺范儿，和摇滚简直有点格格不入了！但是它仍然能够如雷贯耳般的打动心扉，因为明天的电话里依然是我想你。\r\n"
-wordpress_id: 479
+post_id: 479
 wordpress_url: http://www.oushit.com/?p=479
 date: '2012-09-25 14:56:47 +0800'
 date_gmt: '2012-09-25 06:56:47 +0800'

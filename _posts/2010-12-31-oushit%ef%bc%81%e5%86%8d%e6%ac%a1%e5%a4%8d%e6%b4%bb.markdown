@@ -4,7 +4,7 @@ status: publish
 published: true
 title: oushit！再次复活
 author: JohnnieFucker
-wordpress_id: 283
+post_id: 283
 wordpress_url: http://www.oushit.com/?p=283
 date: '2010-12-31 02:08:45 +0800'
 date_gmt: '2010-12-30 18:08:45 +0800'

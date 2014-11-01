@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 天籁——杰克逊串烧
 author: JohnnieFucker
-wordpress_id: 202
+post_id: 202
 wordpress_url: http://www.oushit.com/?p=202
 date: '2009-10-06 00:27:48 +0800'
 date_gmt: '2009-10-05 16:27:48 +0800'

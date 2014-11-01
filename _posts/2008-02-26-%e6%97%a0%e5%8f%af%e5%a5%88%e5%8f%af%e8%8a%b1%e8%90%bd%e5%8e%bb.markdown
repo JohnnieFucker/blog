@@ -5,7 +5,7 @@ published: true
 title: 无可奈可花落去
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/310915272ac2/ckd7wp9r.jpg\" />\r\n对的起父母吗？哎，安心上路！\r\n"
-wordpress_id: 43
+post_id: 43
 wordpress_url: http://www.oushit.com/?p=43
 date: '2008-02-26 14:46:23 +0800'
 date_gmt: '2008-02-26 06:46:23 +0800'

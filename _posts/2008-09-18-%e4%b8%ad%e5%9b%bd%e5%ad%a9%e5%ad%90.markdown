@@ -10,7 +10,7 @@ excerpt: "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" width=\
   /><param name=\"src\" value=\"http://www.tudou.com/v/k3K4Z4oOjVg\" /><embed type=\"application/x-shockwave-flash\"
   width=\"400\" height=\"340\" src=\"http://www.tudou.com/v/k3K4Z4oOjVg\" wmode=\"transparent\"
   allowscriptaccess=\"always\"></embed></object>\r\n\r\n作者写这首歌的时候还没有爆出毒奶粉事件，幼吾幼以及人之幼，为了利益，丢掉良心。事后互相推诿，道德的集体沦丧让人感到失望、绝望！究竟在这个文明发源之地还要出多少这样的“奇人奇事”。文明二字情何以堪，情何以堪……"
-wordpress_id: 83
+post_id: 83
 wordpress_url: http://www.oushit.com/?p=83
 date: '2008-09-18 12:21:21 +0800'
 date_gmt: '2008-09-18 04:21:21 +0800'

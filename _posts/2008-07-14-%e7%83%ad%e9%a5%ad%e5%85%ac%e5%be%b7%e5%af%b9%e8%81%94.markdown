@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 热饭公德对联
 author: JohnnieFucker
-wordpress_id: 75
+post_id: 75
 wordpress_url: http://www.oushit.com/?p=75
 date: '2008-07-14 15:44:30 +0800'
 date_gmt: '2008-07-14 07:44:30 +0800'

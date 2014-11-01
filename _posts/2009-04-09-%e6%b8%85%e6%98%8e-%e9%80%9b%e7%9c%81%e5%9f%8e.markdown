@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 清明--逛省城
 author: JohnnieFucker
-wordpress_id: 158
+post_id: 158
 wordpress_url: http://www.oushit.com/?p=158
 date: '2009-04-09 19:51:42 +0800'
 date_gmt: '2009-04-09 11:51:42 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 飞机划过
 author: JohnnieFucker
-wordpress_id: 354
+post_id: 354
 wordpress_url: http://www.oushit.com/?p=354
 date: '2011-04-16 00:28:45 +0800'
 date_gmt: '2011-04-15 16:28:45 +0800'

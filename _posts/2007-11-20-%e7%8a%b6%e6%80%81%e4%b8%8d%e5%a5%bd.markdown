@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 状态不好
 author: JohnnieFucker
-wordpress_id: 15
+post_id: 15
 wordpress_url: http://www.oushit.com/?p=15
 date: '2007-11-20 13:11:30 +0800'
 date_gmt: '2007-11-20 05:11:30 +0800'

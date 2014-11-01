@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<img src=\"http://photo5.yupoo.com/20071115/015457_1831821528.jpg\" width=\"460\"
   />\r\n准确的说，这应该叫70年代末，80年代初生人。\r\n看看是否能唤起你儿时的记忆，点击进入<a href=\"http://www.ghztop.com\"
   target=\"_blank\">阿桂的个人网站</a>\r\n"
-wordpress_id: 11
+post_id: 11
 wordpress_url: http://www.oushit.com/?p=11
 date: '2007-11-15 02:08:27 +0800'
 date_gmt: '2007-11-14 18:08:27 +0800'

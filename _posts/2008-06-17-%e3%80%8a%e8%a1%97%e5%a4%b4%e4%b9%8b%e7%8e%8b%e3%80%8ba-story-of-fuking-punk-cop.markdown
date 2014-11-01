@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<img src=\"http://www.baiyihui.com/WebMedia/VODJPG/20080425%5F07281020080425111722.jpg\"
   alt=\"\" />\r\n编剧: David Ayer / James Ellroy (story)\r\n导演: David Ayer\r\n主演: Keanu
   Reeves / Hugh Laurie / Forest Whitaker / Kate Clarke / Chris Evans\r\n"
-wordpress_id: 64
+post_id: 64
 wordpress_url: http://www.oushit.com/?p=64
 date: '2008-06-17 18:34:15 +0800'
 date_gmt: '2008-06-17 10:34:15 +0800'

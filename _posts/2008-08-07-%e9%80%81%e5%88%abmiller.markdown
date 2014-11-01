@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 送别miller
 author: JohnnieFucker
-wordpress_id: 80
+post_id: 80
 wordpress_url: http://www.oushit.com/?p=80
 date: '2008-08-07 23:40:03 +0800'
 date_gmt: '2008-08-07 15:40:03 +0800'

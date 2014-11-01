@@ -4,7 +4,7 @@ status: publish
 published: true
 title: GFW什么的弱爆鸟，地球人已经阻止不鸟哥鸟！！
 author: JohnnieFucker
-wordpress_id: 380
+post_id: 380
 wordpress_url: http://www.oushit.com/?p=380
 date: '2011-08-16 21:52:54 +0800'
 date_gmt: '2011-08-16 13:52:54 +0800'

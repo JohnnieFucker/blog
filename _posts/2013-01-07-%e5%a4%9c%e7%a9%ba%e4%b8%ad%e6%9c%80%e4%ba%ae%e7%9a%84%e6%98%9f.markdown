@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XNDA3ODM0NTM2/v.swf\"
   allowFullScreen=\"true\" quality=\"high\" width=\"480\" height=\"400\" align=\"middle\"
   allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"></embed>\r\n\r\n当我迷失在黑暗，拿什么指引我前行？\r\n当我价值观崩塌，用什么支持我继续追求？\r\n"
-wordpress_id: 488
+post_id: 488
 wordpress_url: http://www.oushit.com/?p=488
 date: '2013-01-07 12:16:52 +0800'
 date_gmt: '2013-01-07 04:16:52 +0800'

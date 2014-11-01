@@ -6,7 +6,7 @@ title: 小姐也要争第一
 author: JohnnieFucker
 excerpt: "<img src=\"http://photo11.yupoo.com/20071115/214314_755801261_ueazejey.jpg\"
   border=\"1\" height=\"154\" width=\"374\" />\r\n\r\n今天公司dota群里某个GG发了一个163博客地址给我们\r\n上去一看原来是一个小姐的blog，主要介绍自己的服务项目和价格\r\n不禁要感叹一下小姐还真是时尚是多么的与时俱进\r\nblog的最后一句话当时让我笑喷\r\n\r\n"
-wordpress_id: 13
+post_id: 13
 wordpress_url: http://www.oushit.com/?p=13
 date: '2007-11-15 21:45:10 +0800'
 date_gmt: '2007-11-15 13:45:10 +0800'

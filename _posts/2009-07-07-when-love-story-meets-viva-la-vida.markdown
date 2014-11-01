@@ -8,7 +8,7 @@ excerpt: "<embed align=middle src=http://player.youku.com/player.php/sid/XOTE4Nj
   width=480 height=400 type=application/x-shockwave-flash quality=\"high\" allowScriptAccess=\"sameDomain\"></embed>
   \r\n这部MV是钢琴家Jon Schmidt与大提琴家Steven Sharp Nelson改编的佳作，整首曲目由Love Story （by Taylor
   Swift）和Viva la Vida （by ColdPlay）混编而成，很难想象，最终的效果是如此的让人赞叹，如此的天衣无缝，感动之余便是发自内心的震撼，非常棒，原曲也非常经典动听。"
-wordpress_id: 178
+post_id: 178
 wordpress_url: http://www.oushit.com/?p=178
 date: '2009-07-07 17:54:31 +0800'
 date_gmt: '2009-07-07 09:54:31 +0800'

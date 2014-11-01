@@ -6,7 +6,7 @@ title: 台湾青春爱情电影计划 -《态度》
 author: JohnnieFucker
 excerpt: "<img src=\"http://www.tianshannet.com/yule/content/attachement/jpg/site1/20081211/0016ec9f9f360aab329902.jpg\"
   alt=\"\" />\r\n我们熟悉的城市-台北，这条车水马龙的路是八德路，也是我们台啤篮球队所有球员每天去练球的必经之路，这条拥挤的路上，走著形形色色的人，有摊贩、律师、学生、上班族、修车厂、服务生…………，但又有多少人是真的怀著梦想，坚定努力地走在这条道路上呢？\r\n"
-wordpress_id: 98
+post_id: 98
 wordpress_url: http://www.oushit.com/?p=98
 date: '2009-01-15 13:41:33 +0800'
 date_gmt: '2009-01-15 05:41:33 +0800'

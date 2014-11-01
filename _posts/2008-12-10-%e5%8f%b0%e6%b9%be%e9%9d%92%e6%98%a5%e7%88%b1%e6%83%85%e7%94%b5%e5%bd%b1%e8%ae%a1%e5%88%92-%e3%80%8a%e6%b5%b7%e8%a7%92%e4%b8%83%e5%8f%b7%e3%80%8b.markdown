@@ -6,7 +6,7 @@ title: 台湾青春爱情电影计划-《海角七号》
 author: JohnnieFucker
 excerpt: "<img src=\"http://image.bbs.cnxp.com/attachments/month_0810/20081005_8c754ebc3ebaf0b6e162xcZdsVTnNTuo.jpg\"
   alt=\"\" width=\"500\" />\r\n"
-wordpress_id: 94
+post_id: 94
 wordpress_url: http://www.oushit.com/?p=94
 date: '2008-12-10 10:24:50 +0800'
 date_gmt: '2008-12-10 02:24:50 +0800'

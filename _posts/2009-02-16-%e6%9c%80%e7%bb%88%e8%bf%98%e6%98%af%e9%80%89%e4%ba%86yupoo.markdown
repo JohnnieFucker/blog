@@ -5,7 +5,7 @@ published: true
 title: 最终还是选了yupoo
 author: JohnnieFucker
 excerpt: 折腾了好久，选了半天，最终还是选了yupoo作为自己的网络相册。优点不用说，速度快，虽然有每月上传容量和外链流量限制，但是我基本没用完过，总的存储容量是不限的，开放api，虽然其api还有待完善。可以在yupoo存取原图，虽然无法外链或是通过api来取到原图。
-wordpress_id: 129
+post_id: 129
 wordpress_url: http://www.oushit.com/?p=129
 date: '2009-02-16 01:15:09 +0800'
 date_gmt: '2009-02-15 17:15:09 +0800'

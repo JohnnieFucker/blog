@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMTkyNzI1NDM2/v.swf\"
   quality=\"high\" width=\"480\" height=\"400\" align=\"middle\" allowScriptAccess=\"sameDomain\"
   type=\"application/x-shockwave-flash\"></embed>\r\n"
-wordpress_id: 290
+post_id: 290
 wordpress_url: http://www.oushit.com/?p=290
 date: '2011-01-15 01:24:18 +0800'
 date_gmt: '2011-01-14 17:24:18 +0800'

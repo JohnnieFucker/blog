@@ -5,7 +5,7 @@ published: true
 title: 在线制作漂亮的Tabs
 author: JohnnieFucker
 excerpt: "<img src=\"http://photo5.yupoo.com/20071113/212536_1586909665.jpg\" />\r\n今天下午在网上闲逛的时候偶然发现的一个很好很强大的Tab制作器\r\n"
-wordpress_id: 8
+post_id: 8
 wordpress_url: http://www.oushit.com/?p=8
 date: '2007-11-13 21:31:43 +0800'
 date_gmt: '2007-11-13 13:31:43 +0800'

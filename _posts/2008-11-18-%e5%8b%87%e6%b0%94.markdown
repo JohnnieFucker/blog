@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://www.yupoo.com/photos/view?id=ff8080811d765cae011d84676fa21cf8\"
   title=\"来YUPOO看我的照片\"><img src=\"http://pic.yupoo.com/crazysperm/3821567b1dc6/medium.jpg\"
   alt=\"PB010318\" width=\"500\" height=\"375\" border=\"0\" /></a>\r\n其实一直不知道这篇应该起个什么标题，中午看《空战英豪》的时候，里面飞行员出征的时候，上尉都会对他们说“courage”。我想这篇就叫勇气吧。\r\n"
-wordpress_id: 89
+post_id: 89
 wordpress_url: http://www.oushit.com/?p=89
 date: '2008-11-18 11:19:55 +0800'
 date_gmt: '2008-11-18 03:19:55 +0800'

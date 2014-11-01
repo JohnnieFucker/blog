@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://www.yupoo.com/photos/view?id=ff808081219472340121ab1fa08470ce\"
   title=\"来YUPOO看我的照片\"><img src=\"http://pic.yupoo.com/crazysperm/0711778b2c2e/medium.jpg\"
   alt=\"P6040805\" width=\"500\" height=\"375\" border=\"0\" /></a>\r\n原来的眼镜镜片被我磨的花的不成样子，上周出了手上的股票，赚了一点点，刚好买副眼镜。其实一直都想买一副胶框眼镜，但是一直没有挑到自己喜欢的好看的，上次看了一副gucci的不错，就是太贵了，光是镜架都要2800。那天去海岸城吃饭，路过眼镜88，随便看一下，选到一副不错的armani，还送了条evisu的链子：）毛哥最近老问我，开不开心。恩，很开心！\r\n"
-wordpress_id: 167
+post_id: 167
 wordpress_url: http://www.oushit.com/?p=167
 date: '2009-06-04 21:02:07 +0800'
 date_gmt: '2009-06-04 13:02:07 +0800'

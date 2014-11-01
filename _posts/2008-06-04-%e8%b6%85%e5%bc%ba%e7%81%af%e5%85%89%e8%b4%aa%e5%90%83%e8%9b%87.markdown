@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 超强灯光贪吃蛇
 author: JohnnieFucker
-wordpress_id: 58
+post_id: 58
 wordpress_url: http://www.oushit.com/?p=58
 date: '2008-06-04 23:44:09 +0800'
 date_gmt: '2008-06-04 15:44:09 +0800'

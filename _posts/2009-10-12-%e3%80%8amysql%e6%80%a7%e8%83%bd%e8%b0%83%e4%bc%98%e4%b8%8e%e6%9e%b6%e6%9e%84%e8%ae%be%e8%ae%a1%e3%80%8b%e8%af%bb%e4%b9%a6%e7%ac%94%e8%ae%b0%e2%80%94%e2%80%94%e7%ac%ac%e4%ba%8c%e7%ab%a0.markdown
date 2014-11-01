@@ -6,7 +6,7 @@ title: 《mysql性能调优与架构设计》读书笔记——第二章
 author: JohnnieFucker
 excerpt: "<strong>第二章 mysql架构组成</strong>\r\n第二章属于mysql基础篇，主要讲解mysql文件组成，架构和自带工具介绍。\r\n\r\n<strong>mysql物理文件组成（日志文件、数据文件、replication文件、其他文件）</strong>\r\n\r\n错误日志：errorlog\r\n\r\n默认情况下是关闭的，可以用--log-error[=file_name]选项来指定mysqld保存错误日志文件的位置。如果没有给定file_name值，mysqld使用错误日志名host_name.err
   并在数据目录中写入日志文件。如果你执行FLUSH LOGS，错误日志用-old重新命名后缀并且mysqld创建一个新的空日志文件。(如果未给出--log-error选项，则不会重新命名）。\r\n如果不指定--log-error，或者(在Windows中)如果你使用--console选项，错误被写入标准错误输出stderr。通常标准输出为你的终端。\r\n在Windows中，如果未给出--console选项，错误输出总是写入.err文件。\r\n"
-wordpress_id: 210
+post_id: 210
 wordpress_url: http://www.oushit.com/?p=210
 date: '2009-10-12 01:11:36 +0800'
 date_gmt: '2009-10-11 17:11:36 +0800'

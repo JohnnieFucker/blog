@@ -6,7 +6,7 @@ title: 你的样子——追梦人
 author: JohnnieFucker
 excerpt: "<img src=\"http://www.sinaimg.cn/dy/slidenews/2_img/2012_19/730_695619_944585.jpg\"
   alt=\"\" width=\"500px\" />\r\n让青春吹动了你的长发让它牵引你的梦\r\n不知不觉这红尘的历史已记取了你的笑容\r\n"
-wordpress_id: 457
+post_id: 457
 wordpress_url: http://www.oushit.com/?p=457
 date: '2012-05-14 00:42:00 +0800'
 date_gmt: '2012-05-13 16:42:00 +0800'

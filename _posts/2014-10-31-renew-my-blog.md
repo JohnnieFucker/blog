@@ -3,6 +3,7 @@ layout: post
 title: 继续blog
 author: JohnnieFucker
 date: '2014-10-31 18:54'
+post_id: 496
 category: The Time Of My Life
 cover: '/images/178ba1ee1b71fb252af9a3b0ace670f6.jpg'
 ---

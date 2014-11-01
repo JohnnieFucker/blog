@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "今天早上班车上熊猫告诉我昨天TCL那边发生枪战，我当时的第一反映就是“我靠，离过年还远着的嘛”。今天到公司的bbs上一看，果然有一贴“15日中午TCL楼下突发事件！”
   ，而且还有人拍下了照片。感觉就想在拍电影一样。关于事件的过程众说纷纭，有说贩毒的，有说偷车的。\r\n\r\n<img src=\"http://photo5.yupoo.com/20071116/094750_309697411_hnoxpvsp.jpg\"
   height=\"320\" width=\"304\" />\r\n\r\n"
-wordpress_id: 14
+post_id: 14
 wordpress_url: http://www.oushit.com/?p=14
 date: '2007-11-16 09:32:09 +0800'
 date_gmt: '2007-11-16 01:32:09 +0800'

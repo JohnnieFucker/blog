@@ -4,7 +4,7 @@ status: publish
 published: true
 title: wc外的涂鸦
 author: JohnnieFucker
-wordpress_id: 63
+post_id: 63
 wordpress_url: http://www.oushit.com/?p=63
 date: '2008-06-12 13:12:40 +0800'
 date_gmt: '2008-06-12 05:12:40 +0800'

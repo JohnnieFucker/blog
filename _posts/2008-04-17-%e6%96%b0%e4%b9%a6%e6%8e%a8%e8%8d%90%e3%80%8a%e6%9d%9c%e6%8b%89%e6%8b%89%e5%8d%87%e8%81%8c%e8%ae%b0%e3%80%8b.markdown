@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<img src=\"http://www.shuashuashua.com/pic/20032382.jpg\" width=\"500\"
   />\r\n作者: 李可\r\n弦哥评价：还算是本不错的书，午休看了点，昨晚看到3点多。早上来终于看完-_-!\r\n这本书是昨天中午无聊的时候在豆瓣上看见的，下载下来看了一点，还挺吸引人的。故事讲述了杜拉拉在职场中的经历。怎么说呢，感觉自己离故事很远，但是又被故事吸引，甚至有那么一点向往。anyway
   书中还是有很多观点和方法值得学习 ：）\r\n"
-wordpress_id: 54
+post_id: 54
 wordpress_url: http://www.oushit.com/?p=54
 date: '2008-04-17 11:39:56 +0800'
 date_gmt: '2008-04-17 03:39:56 +0800'

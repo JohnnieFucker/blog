@@ -6,7 +6,7 @@ title: 创业碎碎念（1）
 author: JohnnieFucker
 excerpt: "<img src=\"http://ww3.sinaimg.cn/large/768b91a5jw1dqdtbczgpyj.jpg\" alt=\"\"
   \ width='500'/>\r\n1,一定要做自己觉得cool的事，或者把平淡的事做的很cool，如果做不了有意义的事，那跑出来创锤子的业啊！\r\n2，领地意识很重要，自己负责的那一块工作就是自己的领地，自己负责的事最起码要做的对的起自己，如果出的活儿糙到自己都不好意思跟人讲，那不是tmd浪费自己的生命么？\r\n3，在自己的领地上努力做到自己给自己不断的惊喜，让自己有一天能够在同事，同行面前，大声的说，知道么，那啥啥是老子做的，因为是我做的，所以非常牛b！没有表现欲望，那还是回去打工吧！\r\n"
-wordpress_id: 405
+post_id: 405
 wordpress_url: http://www.oushit.com/?p=405
 date: '2012-02-25 00:28:42 +0800'
 date_gmt: '2012-02-24 16:28:42 +0800'

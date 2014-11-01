@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 2010?成都?转运?
 author: JohnnieFucker
-wordpress_id: 230
+post_id: 230
 wordpress_url: http://www.oushit.com/?p=230
 date: '2010-02-22 23:16:00 +0800'
 date_gmt: '2010-02-22 15:16:00 +0800'

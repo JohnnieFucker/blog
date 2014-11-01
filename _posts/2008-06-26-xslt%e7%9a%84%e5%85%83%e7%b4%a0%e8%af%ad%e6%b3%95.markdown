@@ -5,7 +5,7 @@ published: true
 title: XSlT的元素语法
 author: JohnnieFucker
 excerpt: "转载自互联网，只为mark一个方便以后用的时候查询\r\n\r\n"
-wordpress_id: 67
+post_id: 67
 wordpress_url: http://www.oushit.com/?p=67
 date: '2008-06-26 15:24:41 +0800'
 date_gmt: '2008-06-26 07:24:41 +0800'

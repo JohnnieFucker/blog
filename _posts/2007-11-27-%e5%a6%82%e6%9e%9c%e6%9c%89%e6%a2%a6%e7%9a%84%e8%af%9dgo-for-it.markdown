@@ -12,7 +12,7 @@ excerpt: "如果有梦的话,Go for it!\r\n这是今天在HYESUNG的Qzone上看�
   老大们对自己的表现也都不满意. 难道真的是因为本命年,一过完生日一切都变了一样. 去年还有点春风得意的感觉, 现在却变得落寞不堪,三十年河东,三十年河西,难道就是这样?\r\n\r\n昨天突然想到了陶喆的RUN
   AWAY, 非常能描写自己现在的心情. 在QQ音乐里面搜了一下, 竟然是还是在香港红勘SOUL POWER的LIVE版. 非常喜欢这首歌之前的那句话:\" 如果你们有梦的话,
   Go for it, run away!\"</blockquote>\r\n"
-wordpress_id: 21
+post_id: 21
 wordpress_url: http://www.oushit.com/?p=21
 date: '2007-11-27 18:20:14 +0800'
 date_gmt: '2007-11-27 10:20:14 +0800'

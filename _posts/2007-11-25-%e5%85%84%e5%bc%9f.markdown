@@ -6,7 +6,7 @@ title: 兄弟
 author: JohnnieFucker
 excerpt: " <img src=\"http://photo15.yupoo.com/20071125/233924_1667750729_ynwrkaoe.jpg\"
   height=\"224\" width=\"300\" />\r\n\r\n之前就看过了刘德华的这部兄弟，电影本身不怎么样。无味的剧情，堆砌的明星。汤镇业都老成那样了，还搞了光头造型。想想当年《外来妹》里那风度翩翩的帅哥，不禁有点唏嘘不已。eason的表演还算过的去，黄奕还是那么傻，老刘和黄日华还是那么帅。今天在家听了一天主题曲，很好很强大。歌词写的不错，让我想起了自己的兄弟们。整首歌难度不大，很想和全去ktv里飚这首歌。\r\n\r\n[audio:http://www.xunleimusic.com/ziyuan/xiazai/onlyone/4299ce5c/004039/1143765504.mp3|loop=yes]\r\n\r\n"
-wordpress_id: 20
+post_id: 20
 wordpress_url: http://www.oushit.com/?p=20
 date: '2007-11-25 23:18:04 +0800'
 date_gmt: '2007-11-25 15:18:04 +0800'

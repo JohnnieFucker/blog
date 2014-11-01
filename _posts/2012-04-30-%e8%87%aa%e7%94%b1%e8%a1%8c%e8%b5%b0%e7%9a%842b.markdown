@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMjc5NTMyMTIw/v.swf\"
   quality=\"high\" width=\"480\" height=\"400\" align=\"middle\" allowScriptAccess=\"sameDomain\"
   allowFullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed>\r\n其实这是上一篇春游的续篇。我很喜欢这首歌！jifeng说40岁后会去传道，我想40岁后我将是一个行者，独自上路，做一个自由的行走的2b！\r\n"
-wordpress_id: 427
+post_id: 427
 wordpress_url: http://www.oushit.com/?p=427
 date: '2012-04-30 03:29:27 +0800'
 date_gmt: '2012-04-29 19:29:27 +0800'

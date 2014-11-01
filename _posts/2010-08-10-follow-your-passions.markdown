@@ -9,7 +9,7 @@ excerpt: "<embed src=\"http://www.tudou.com/v/nsk1MxeIrao/v.swf\" type=\"applica
   height=\"400\"></embed>\r\n这是亚马逊CEO贝索斯在普林斯顿大学2010年学士毕业典礼上的演讲，标题叫做《We are What We
   Choose》。让我想起了李开复的“follow your heart”，当面临诱惑，面临艰难选择的时候应该如果去作出选择？it's harder to be
   kind than clever。\r\n\r\n"
-wordpress_id: 268
+post_id: 268
 wordpress_url: http://www.oushit.com/?p=268
 date: '2010-08-10 10:06:44 +0800'
 date_gmt: '2010-08-10 02:06:44 +0800'

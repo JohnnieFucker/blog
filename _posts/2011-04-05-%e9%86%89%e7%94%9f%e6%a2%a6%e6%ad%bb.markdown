@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 醉生梦死
 author: JohnnieFucker
-wordpress_id: 337
+post_id: 337
 wordpress_url: http://www.oushit.com/?p=337
 date: '2011-04-05 23:22:39 +0800'
 date_gmt: '2011-04-05 15:22:39 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Flex3 Chart Demo
 author: JohnnieFucker
-wordpress_id: 66
+post_id: 66
 wordpress_url: http://www.oushit.com/?p=66
 date: '2008-06-18 23:11:01 +0800'
 date_gmt: '2008-06-18 15:11:01 +0800'

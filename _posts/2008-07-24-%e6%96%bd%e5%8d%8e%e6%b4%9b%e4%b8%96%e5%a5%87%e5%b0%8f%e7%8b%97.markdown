@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 施华洛世奇小狗
 author: JohnnieFucker
-wordpress_id: 78
+post_id: 78
 wordpress_url: http://www.oushit.com/?p=78
 date: '2008-07-24 10:47:32 +0800'
 date_gmt: '2008-07-24 02:47:32 +0800'

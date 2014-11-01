@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 老子回来了
 author: JohnnieFucker
-wordpress_id: 219
+post_id: 219
 wordpress_url: http://www.oushit.com/?p=219
 date: '2010-01-15 00:27:13 +0800'
 date_gmt: '2010-01-14 16:27:13 +0800'

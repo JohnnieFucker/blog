@@ -6,7 +6,7 @@ title: 当幸福来敲门
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/481324ed8688/medium.jpg\" height=\"500\"
   width=\"336\" />\r\n最近其实看了很多电影，形形色色，各式各样。每看完一部都总想写点什么，但真到敲击键盘的时候却又不知道写些什么了。\r\n"
-wordpress_id: 35
+post_id: 35
 wordpress_url: http://www.oushit.com/?p=35
 date: '2008-01-13 21:49:04 +0800'
 date_gmt: '2008-01-13 13:49:04 +0800'

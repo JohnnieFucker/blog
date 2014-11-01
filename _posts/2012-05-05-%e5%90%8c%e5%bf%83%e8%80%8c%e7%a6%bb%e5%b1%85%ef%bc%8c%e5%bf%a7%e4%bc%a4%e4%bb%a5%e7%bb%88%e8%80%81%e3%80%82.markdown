@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 同心而离居，忧伤以终老。
 author: JohnnieFucker
-wordpress_id: 440
+post_id: 440
 wordpress_url: http://www.oushit.com/?p=440
 date: '2012-05-05 02:21:53 +0800'
 date_gmt: '2012-05-04 18:21:53 +0800'

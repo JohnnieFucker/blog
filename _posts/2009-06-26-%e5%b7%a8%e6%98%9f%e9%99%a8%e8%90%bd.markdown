@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<img src=\"http://img1.gtimg.com/ent/pics/18694/18694569.jpg\" alt=\"\"
   \ width=500/>\r\n今天一早打开电脑，看到这个震惊的消息……一代天王就此在争议之中陨落，goodbye mj，天堂从此多了一位巨星。goodbye
   mj，you are not alone！\r\n"
-wordpress_id: 173
+post_id: 173
 wordpress_url: http://www.oushit.com/?p=173
 date: '2009-06-26 11:42:15 +0800'
 date_gmt: '2009-06-26 03:42:15 +0800'

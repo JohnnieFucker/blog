@@ -4,7 +4,7 @@ status: publish
 published: true
 title: MV 房子降价了
 author: JohnnieFucker
-wordpress_id: 44
+post_id: 44
 wordpress_url: http://www.oushit.com/?p=44
 date: '2008-03-04 13:34:16 +0800'
 date_gmt: '2008-03-04 05:34:16 +0800'

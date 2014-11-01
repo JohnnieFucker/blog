@@ -6,7 +6,7 @@ title: 仁者见仁，淫者见淫——那些bh的icon
 author: JohnnieFucker
 excerpt: <img src="http://slides.discovery.tom.com/data1/upload/344/607/1222053823-1336612031.jpg"/><br
   />
-wordpress_id: 85
+post_id: 85
 wordpress_url: http://www.oushit.com/?p=85
 date: '2008-10-09 11:18:17 +0800'
 date_gmt: '2008-10-09 03:18:17 +0800'

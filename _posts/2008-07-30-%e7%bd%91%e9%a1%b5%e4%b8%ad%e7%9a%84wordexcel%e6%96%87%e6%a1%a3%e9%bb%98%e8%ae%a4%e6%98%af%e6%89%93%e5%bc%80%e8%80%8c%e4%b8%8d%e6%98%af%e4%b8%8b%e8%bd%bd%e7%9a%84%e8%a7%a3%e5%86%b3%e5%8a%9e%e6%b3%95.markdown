@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 网页中的word.excel文档默认是打开而不是下载的解决办法
 author: JohnnieFucker
-wordpress_id: 79
+post_id: 79
 wordpress_url: http://www.oushit.com/?p=79
 date: '2008-07-30 10:28:15 +0800'
 date_gmt: '2008-07-30 02:28:15 +0800'

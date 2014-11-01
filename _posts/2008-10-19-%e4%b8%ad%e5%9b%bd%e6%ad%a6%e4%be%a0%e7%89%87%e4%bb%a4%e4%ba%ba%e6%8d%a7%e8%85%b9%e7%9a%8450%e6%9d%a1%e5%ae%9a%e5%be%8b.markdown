@@ -5,7 +5,7 @@ published: true
 title: 中国武侠片令人捧腹的50条定律
 author: JohnnieFucker
 excerpt: "1.悦来客栈是古代最大的连锁客栈。\r\n\r\n2.超级巨毒，解药，暗器都产自西域。\r\n\r\n3.平时朝夕相处的人，只要穿上夜行衣，再蒙个面纱，对方就不认识了。\r\n\r\n4.没用的小角色用的武功名字有很强的文学性和动物性，就是不大好用。\r\n\r\n5.长着超长白发+胡子的绝对是旷世高人，和他要拉好关系。\r\n"
-wordpress_id: 86
+post_id: 86
 wordpress_url: http://www.oushit.com/?p=86
 date: '2008-10-19 17:42:19 +0800'
 date_gmt: '2008-10-19 09:42:19 +0800'

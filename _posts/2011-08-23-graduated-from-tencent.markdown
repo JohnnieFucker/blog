@@ -4,7 +4,7 @@ status: publish
 published: true
 title: graduated from Tencent
 author: JohnnieFucker
-wordpress_id: 385
+post_id: 385
 wordpress_url: http://www.oushit.com/?p=385
 date: '2011-08-23 02:18:22 +0800'
 date_gmt: '2011-08-22 18:18:22 +0800'

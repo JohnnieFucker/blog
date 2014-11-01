@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 玩街机的至高境界
 author: JohnnieFucker
-wordpress_id: 34
+post_id: 34
 wordpress_url: http://www.oushit.com/?p=34
 date: '2008-01-10 17:25:03 +0800'
 date_gmt: '2008-01-10 09:25:03 +0800'

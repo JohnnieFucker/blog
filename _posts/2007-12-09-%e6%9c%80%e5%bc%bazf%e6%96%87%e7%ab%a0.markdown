@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 最强ZF文章
 author: JohnnieFucker
-wordpress_id: 24
+post_id: 24
 wordpress_url: http://www.oushit.com/?p=24
 date: '2007-12-09 12:39:21 +0800'
 date_gmt: '2007-12-09 04:39:21 +0800'

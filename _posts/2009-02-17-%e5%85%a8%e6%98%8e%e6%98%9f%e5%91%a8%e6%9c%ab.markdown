@@ -6,7 +6,7 @@ title: 全明星周末
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/oushit/825606fced80/medium.jpg\" alt=\"\"
   />\r\n上周末nba全明星周末，我们也有我们的全明星周末。小熊猫来深圳培训，充当了一把我们的御用摄影师。\r\n"
-wordpress_id: 132
+post_id: 132
 wordpress_url: http://www.oushit.com/?p=132
 date: '2009-02-17 14:04:02 +0800'
 date_gmt: '2009-02-17 06:04:02 +0800'

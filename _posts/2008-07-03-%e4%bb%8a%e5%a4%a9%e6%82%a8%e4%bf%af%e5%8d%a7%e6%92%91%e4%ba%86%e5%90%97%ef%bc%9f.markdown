@@ -5,7 +5,7 @@ published: true
 title: 今天您俯卧撑了吗？
 author: JohnnieFucker
 excerpt: "<img src=\"http://img1.qq.com/news/pics/11421/11421125.jpg\" alt=\"\" />\r\n"
-wordpress_id: 70
+post_id: 70
 wordpress_url: http://www.oushit.com/?p=70
 date: '2008-07-03 10:11:05 +0800'
 date_gmt: '2008-07-03 02:11:05 +0800'

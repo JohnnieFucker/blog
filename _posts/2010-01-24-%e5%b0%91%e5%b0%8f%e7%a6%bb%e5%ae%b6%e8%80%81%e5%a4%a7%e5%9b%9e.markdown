@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 少小离家老大回
 author: JohnnieFucker
-wordpress_id: 221
+post_id: 221
 wordpress_url: http://www.oushit.com/?p=221
 date: '2010-01-24 01:02:47 +0800'
 date_gmt: '2010-01-23 17:02:47 +0800'

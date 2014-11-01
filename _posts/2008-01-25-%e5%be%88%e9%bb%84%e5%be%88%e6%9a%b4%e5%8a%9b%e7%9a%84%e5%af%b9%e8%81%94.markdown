@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 很黄很暴力的对联
 author: JohnnieFucker
-wordpress_id: 38
+post_id: 38
 wordpress_url: http://www.oushit.com/?p=38
 date: '2008-01-25 13:07:52 +0800'
 date_gmt: '2008-01-25 05:07:52 +0800'

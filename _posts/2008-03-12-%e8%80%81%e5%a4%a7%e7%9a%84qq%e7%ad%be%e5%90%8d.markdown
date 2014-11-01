@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 老大的qq签名
 author: JohnnieFucker
-wordpress_id: 47
+post_id: 47
 wordpress_url: http://www.oushit.com/?p=47
 date: '2008-03-12 10:51:38 +0800'
 date_gmt: '2008-03-12 02:51:38 +0800'

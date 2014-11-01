@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://www.yupoo.com/photos/crazysperm/79919930/\" title=\"{A3ECF5D1-E1E6-44F7-84A7-0377FC8B632C}\"><img
   src=\"http://pic.yupoo.com/crazysperm/ARQBPNNf/medium.jpg\" alt=\"{A3ECF5D1-E1E6-44F7-84A7-0377FC8B632C}\"
   width=\"298\" height=\"308\" border=\"0\" /></a>\r\n今天在小组群里面掀起晒自己小时候照片的活动，我发了一张自己百日时候的照片。没错就是下面这个小喷友拉。\r\n"
-wordpress_id: 301
+post_id: 301
 wordpress_url: http://www.oushit.com/?p=301
 date: '2011-02-22 17:39:24 +0800'
 date_gmt: '2011-02-22 09:39:24 +0800'

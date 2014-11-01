@@ -4,7 +4,7 @@ status: publish
 published: true
 title: I hate Chengdu
 author: JohnnieFucker
-wordpress_id: 236
+post_id: 236
 wordpress_url: http://www.oushit.com/?p=236
 date: '2010-03-14 17:33:00 +0800'
 date_gmt: '2010-03-14 09:33:00 +0800'

@@ -6,7 +6,7 @@ title: 一些flex的开源项目
 author: JohnnieFucker
 excerpt: "网上搜到的，最近对flex的热情还是保持的很好。\r\n这些里面有很多都可以应用到实际的项目中，很好:em03:看看人家的怎么写的，自己也可以写，不一定要照搬\r\n\r\n转载自<a
   href=\"http://hi.baidu.com/cooltree\" target=\"_blank\">酷树</a>\r\n"
-wordpress_id: 69
+post_id: 69
 wordpress_url: http://www.oushit.com/?p=69
 date: '2008-06-28 11:44:03 +0800'
 date_gmt: '2008-06-28 03:44:03 +0800'

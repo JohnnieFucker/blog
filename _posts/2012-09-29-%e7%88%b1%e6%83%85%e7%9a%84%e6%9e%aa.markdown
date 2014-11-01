@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 爱情的枪
 author: JohnnieFucker
-wordpress_id: 481
+post_id: 481
 wordpress_url: http://www.oushit.com/?p=481
 date: '2012-09-29 16:12:08 +0800'
 date_gmt: '2012-09-29 08:12:08 +0800'

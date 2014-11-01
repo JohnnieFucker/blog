@@ -6,7 +6,7 @@ title: bag ong
 author: JohnnieFucker
 excerpt: "<img src=\"http://photo15.yupoo.com/20071220/115531_1975665909_hmuvdfdv.jpg\"
   />\r\n据说今天早上的时候科技园某家企业bag ong-_-!!\r\n详细情况还不清楚。\r\n"
-wordpress_id: 29
+post_id: 29
 wordpress_url: http://www.oushit.com/?p=29
 date: '2007-12-20 12:04:01 +0800'
 date_gmt: '2007-12-20 04:04:01 +0800'

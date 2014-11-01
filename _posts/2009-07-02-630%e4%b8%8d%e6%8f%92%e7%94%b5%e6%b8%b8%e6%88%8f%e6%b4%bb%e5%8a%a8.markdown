@@ -8,7 +8,7 @@ excerpt: "<a href=\"http://www.yupoo.com/photos/view?id=ff80808121f7787701223b63
   title=\"来YUPOO看我的照片\"><img src=\"http://pic.yupoo.com/crazysperm/016407b01ac1/medium.jpg\"
   alt=\"P6300876\" width=\"500\" height=\"375\" border=\"0\" /></a><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   6月30日的不插电活动，我们选在了风景秀丽飞亚达5楼西。自从很难吃的xx咖啡撤离5楼之后，这里有变成了我们不插电活动的绝佳场地。当夕阳西下，凉风送爽的时候，我们的活动便拉开了帷幕。</p>\r\n"
-wordpress_id: 176
+post_id: 176
 wordpress_url: http://www.oushit.com/?p=176
 date: '2009-07-02 20:40:18 +0800'
 date_gmt: '2009-07-02 12:40:18 +0800'

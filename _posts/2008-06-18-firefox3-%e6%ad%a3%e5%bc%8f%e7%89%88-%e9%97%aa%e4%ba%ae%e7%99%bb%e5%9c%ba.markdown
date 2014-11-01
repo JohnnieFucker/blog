@@ -4,7 +4,7 @@ status: publish
 published: true
 title: FireFox3 正式版 闪亮登场
 author: JohnnieFucker
-wordpress_id: 65
+post_id: 65
 wordpress_url: http://www.oushit.com/?p=65
 date: '2008-06-18 19:31:02 +0800'
 date_gmt: '2008-06-18 11:31:02 +0800'

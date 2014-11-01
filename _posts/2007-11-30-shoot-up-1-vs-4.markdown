@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 'Shoot Up: 1 vs 4'
 author: JohnnieFucker
-wordpress_id: 23
+post_id: 23
 wordpress_url: http://www.oushit.com/?p=23
 date: '2007-11-30 23:21:24 +0800'
 date_gmt: '2007-11-30 15:21:24 +0800'

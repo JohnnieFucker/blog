@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<p>哥好多年不写，不翻译，不转载技术文章了。想想其实挺可耻的：）自己接触ios开发时间也不长，而且按照哥的风格也不是原样直译作者的文章，如果有错误欢迎订正我的邮箱是：crazysperm@gmail.com</p>\r\n<p>原文<a
   href=\"http://mobileorchard.com/ios-advanced-programming-the-image-picker/\" target=\"_blank\">《iOS
   Advanced Programming: The Image picker》</a>  作者：OSCARVGG </p>\r\n"
-wordpress_id: 374
+post_id: 374
 wordpress_url: http://www.oushit.com/?p=374
 date: '2011-07-29 01:35:23 +0800'
 date_gmt: '2011-07-28 17:35:23 +0800'

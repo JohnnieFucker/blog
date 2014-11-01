@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 今夜谁与我和
 author: JohnnieFucker
-wordpress_id: 163
+post_id: 163
 wordpress_url: http://www.oushit.com/?p=163
 date: '2009-05-21 20:16:44 +0800'
 date_gmt: '2009-05-21 12:16:44 +0800'

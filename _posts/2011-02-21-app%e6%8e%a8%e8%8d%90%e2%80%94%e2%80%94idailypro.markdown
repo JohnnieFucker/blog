@@ -6,7 +6,7 @@ title: APP推荐——iDailyPro
 author: JohnnieFucker
 excerpt: "<img src=\"http://images.weiphone.com/attachments/Day_101111/36_1443854_a8a1ef24567bfbf.png\"
   alt=\"\" />\r\n昨天晚上十点就睡了，结果导致早上6点多就醒了。躺在床上没事做开始例行的“思考人生”。过去的2010年很悲剧，各方面都不是很如意，职业发展方面开始逐渐失去方向再次走向迷惘，坦率的说回了成都之后自认为还真没好好上过班，完全没有了以前工作的激情和动力。新的一年希望自己至少能过的充实一些，少打点游戏，少打点牌，多一些自我思考和自我提升。\r\n"
-wordpress_id: 298
+post_id: 298
 wordpress_url: http://www.oushit.com/?p=298
 date: '2011-02-21 15:18:41 +0800'
 date_gmt: '2011-02-21 07:18:41 +0800'

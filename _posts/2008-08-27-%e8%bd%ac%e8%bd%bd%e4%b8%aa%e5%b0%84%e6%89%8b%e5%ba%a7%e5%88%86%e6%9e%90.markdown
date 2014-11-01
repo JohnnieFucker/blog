@@ -6,7 +6,7 @@ title: 转载个射手座分析
 author: JohnnieFucker
 excerpt: "<img src=\"http://www.jingzhinvren.com.cn/UploadFile/20080131_9/171117_cat35.jpg\"
   alt=\"\" />\r\n射手座终极分析\r\n　　 \r\n\r\n乐观与忧愁：射手座人的内心不是外表看上去那么乐观的，因为喜欢看的远，容易担忧的事情也就多，在他们的字典里，即使现在好，也不一定代表未来好，有时候很多人觉得很好的一个工作或一个伴侣，他们很轻易的就会放弃掉，可能只是因为一个毫不起眼的小原因。所以，这样的外在表现，就让人们觉得他们不喜欢被某件事情或某个人束缚住，追求自由的，没有压力的感觉。\r\n"
-wordpress_id: 81
+post_id: 81
 wordpress_url: http://www.oushit.com/?p=81
 date: '2008-08-27 09:46:46 +0800'
 date_gmt: '2008-08-27 01:46:46 +0800'

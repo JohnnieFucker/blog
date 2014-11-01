@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://photo14.yupoo.com/20071129/002742_610058904_shaaqxwy.jpg\"><img
   src=\"http://photo14.yupoo.com/20071129/002742_610058904.jpg\" /></a>\r\n今天在vic的Qzone上看到的，一个很好玩的人脸识别网站，功能很强大，可以识别出哪些名人跟你长的最像。\r\n这张最像的居然是星爷：）\r\n点<a
   href=\"http://www.myheritage.cn/FP/Company/face-recognition.php\">这里</a>去玩玩。\r\n"
-wordpress_id: 22
+post_id: 22
 wordpress_url: http://www.oushit.com/?p=22
 date: '2007-11-29 00:28:37 +0800'
 date_gmt: '2007-11-28 16:28:37 +0800'

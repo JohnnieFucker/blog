@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 猥琐的希哥
 author: JohnnieFucker
-wordpress_id: 321
+post_id: 321
 wordpress_url: http://www.oushit.com/?p=321
 date: '2011-03-13 17:14:05 +0800'
 date_gmt: '2011-03-13 09:14:05 +0800'

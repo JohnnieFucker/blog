@@ -5,7 +5,7 @@ published: true
 title: 金门大桥上空的鹰
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/8125656258db/fpinwpws.jpg\" />\r\n海外的同胞，你们是好样的！\r\n"
-wordpress_id: 53
+post_id: 53
 wordpress_url: http://www.oushit.com/?p=53
 date: '2008-04-11 12:01:28 +0800'
 date_gmt: '2008-04-11 04:01:28 +0800'

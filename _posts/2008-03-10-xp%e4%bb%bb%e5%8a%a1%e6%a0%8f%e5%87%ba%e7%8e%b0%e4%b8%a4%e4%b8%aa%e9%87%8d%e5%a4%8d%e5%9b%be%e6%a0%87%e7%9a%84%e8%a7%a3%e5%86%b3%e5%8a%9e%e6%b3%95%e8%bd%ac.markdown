@@ -4,7 +4,7 @@ status: publish
 published: true
 title: XP任务栏出现两个重复图标的解决办法(转)
 author: JohnnieFucker
-wordpress_id: 46
+post_id: 46
 wordpress_url: http://www.oushit.com/?p=46
 date: '2008-03-10 09:20:31 +0800'
 date_gmt: '2008-03-10 01:20:31 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 2009新年快乐
 author: JohnnieFucker
-wordpress_id: 107
+post_id: 107
 wordpress_url: http://www.oushit.com/?p=107
 date: '2009-01-24 11:28:43 +0800'
 date_gmt: '2009-01-24 03:28:43 +0800'

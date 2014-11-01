@@ -6,7 +6,7 @@ title: 51珠海游
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/656325a8e1a3/h7f0jgva.jpg\" alt=\"\"
   width=\"500\" />\r\n51去了趟珠海，just soso，前段时间网站关了，今天补发上来。\r\n其实天没这么蓝，我ps的：）\r\n"
-wordpress_id: 57
+post_id: 57
 wordpress_url: http://www.oushit.com/?p=57
 date: '2008-06-03 23:50:54 +0800'
 date_gmt: '2008-06-03 15:50:54 +0800'

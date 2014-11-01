@@ -5,7 +5,7 @@ published: true
 title: 台湾青春爱情电影计划-《九降风》
 author: JohnnieFucker
 excerpt: "<img src=\"http://img2.douban.com/lpic/s3353583.jpg\" alt=\"\" />\r\n无奈青春渐远，单纯与热情不再，同伴间的情义与信任面对人性里原本的懦弱与自私那样脆弱不堪一击，再失望再无奈，而我们也终将面对真实残酷的成人世界。\r\n　　\r\n片尾张雨生的歌声回荡，敲击在心底，我们，再也回不去了。\r\n"
-wordpress_id: 90
+post_id: 90
 wordpress_url: http://www.oushit.com/?p=90
 date: '2008-11-27 15:11:55 +0800'
 date_gmt: '2008-11-27 07:11:55 +0800'

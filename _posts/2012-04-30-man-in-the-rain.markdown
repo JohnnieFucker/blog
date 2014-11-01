@@ -4,7 +4,7 @@ status: publish
 published: true
 title: man in the rain
 author: JohnnieFucker
-wordpress_id: 436
+post_id: 436
 wordpress_url: http://www.oushit.com/?p=436
 date: '2012-04-30 23:51:25 +0800'
 date_gmt: '2012-04-30 15:51:25 +0800'

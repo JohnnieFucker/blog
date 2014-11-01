@@ -4,7 +4,7 @@ status: publish
 published: true
 title: '"屎"上最强--超级玛丽'
 author: JohnnieFucker
-wordpress_id: 18
+post_id: 18
 wordpress_url: http://www.oushit.com/?p=18
 date: '2007-11-22 13:18:55 +0800'
 date_gmt: '2007-11-22 05:18:55 +0800'

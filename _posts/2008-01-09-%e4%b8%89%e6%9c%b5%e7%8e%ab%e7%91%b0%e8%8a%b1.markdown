@@ -8,7 +8,7 @@ excerpt: "<a href=\"http://photo14.yupoo.com/20080109/204613_99185117_vzpiczdq.j
   target=\"_blank\">\r\n<img src=\"http://photo14.yupoo.com/20080109/204613_99185117.jpg\"
   height=\"375\" width=\"500\" /></a>\r\n这个是我前段时间在网上学的川崎玫瑰发上来给大家瞧瞧，看来我初98级5班折纸王不是浪得虚名吧。\r\n\r\n推荐大家一个折纸的网站，相当BH，<a
   href=\"http://www.lusiya.com/\">纸天堂</a>\r\n\r\n"
-wordpress_id: 33
+post_id: 33
 wordpress_url: http://www.oushit.com/?p=33
 date: '2008-01-09 20:55:25 +0800'
 date_gmt: '2008-01-09 12:55:25 +0800'

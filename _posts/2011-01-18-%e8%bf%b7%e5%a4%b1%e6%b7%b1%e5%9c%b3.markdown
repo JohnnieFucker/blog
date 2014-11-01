@@ -6,7 +6,7 @@ title: 迷失深圳
 author: JohnnieFucker
 excerpt: "<img src=\"http://www.garlap.com/blog/uploads/200611/21_202508_p1020780.jpg\"
   \ width=\"500px\"/>\r\n清晨的成都寒冷异常，在床上赖了半个小时，再加上万恶的堵车，结果直接导致没赶上班机，不退不改不转签，默默的退了100多税费另外又买了张票。mb的最近这是怎么了，动车，动车没赶上；飞机，飞机没赶上！\r\n在机场等登机的时候突然下起了大雪，确切的说不是雪，是一块块的冰茬子，打在身上啪啪作响！\r\n"
-wordpress_id: 292
+post_id: 292
 wordpress_url: http://www.oushit.com/?p=292
 date: '2011-01-18 01:09:05 +0800'
 date_gmt: '2011-01-17 17:09:05 +0800'

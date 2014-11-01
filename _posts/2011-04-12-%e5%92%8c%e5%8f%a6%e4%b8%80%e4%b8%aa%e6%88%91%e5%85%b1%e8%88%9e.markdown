@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMjIyMTcyMTg4/v.swf\"
   quality=\"high\" width=\"480\" height=\"400\" align=\"middle\" allowScriptAccess=\"sameDomain\"
   type=\"application/x-shockwave-flash\"></embed>\r\n有一部非常出名的漫画《nana》，改编的电影也译做《世上的另一个我》。如果真的世上有另一个自己，某日相见，会是什么样的情景。又或者有无数个自己活在不同时间段的平行空间之中，当有一天我们穿越时空，你想对你自己说些什么呢？\r\n"
-wordpress_id: 349
+post_id: 349
 wordpress_url: http://www.oushit.com/?p=349
 date: '2011-04-12 03:03:46 +0800'
 date_gmt: '2011-04-11 19:03:46 +0800'

@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 相当油菜的姓名
 author: JohnnieFucker
-wordpress_id: 32
+post_id: 32
 wordpress_url: http://www.oushit.com/?p=32
 date: '2008-01-04 15:29:04 +0800'
 date_gmt: '2008-01-04 07:29:04 +0800'

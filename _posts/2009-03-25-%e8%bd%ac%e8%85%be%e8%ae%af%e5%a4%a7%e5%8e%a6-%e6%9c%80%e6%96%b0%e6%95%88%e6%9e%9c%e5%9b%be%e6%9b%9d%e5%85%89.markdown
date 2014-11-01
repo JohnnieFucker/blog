@@ -8,7 +8,7 @@ excerpt: "从速水的qzone转来的，其实他也是转的别人的。哈哈�
   src=\"http://pic.yupoo.com/crazysperm/3937072c7e33/medium.jpg\" alt=\"\" />\r\n呦，高级了
   还是跃式的\r\n<img src=\"http://pic.yupoo.com/crazysperm/2535872c7e34/medium.jpg\" alt=\"\"
   />\r\n"
-wordpress_id: 153
+post_id: 153
 wordpress_url: http://www.oushit.com/?p=153
 date: '2009-03-25 00:22:35 +0800'
 date_gmt: '2009-03-24 16:22:35 +0800'

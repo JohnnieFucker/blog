@@ -8,7 +8,7 @@ excerpt: "<a href=\"http://www.yupoo.com/photos/view?id=ff8080812302852d012302a7
   title=\"来YUPOO看我的照片\"><img src=\"http://pic.yupoo.com/crazysperm/576957e31dbb/medium.jpg\"
   alt=\"c520d121-8469-44ae-a9ea-abac0528e1a5\" width=\"500\" height=\"375\" border=\"0\"
   /></a>\r\n最后一次跟着老部门出去旅游，只有一个感觉，好累，好热。至少有10多个小时是在大巴上度过的，白天的行程总是顶着大太阳晃悠，走几分钟，衣服就已经湿透了。\r\n"
-wordpress_id: 189
+post_id: 189
 wordpress_url: http://www.oushit.com/?p=189
 date: '2009-08-10 13:17:23 +0800'
 date_gmt: '2009-08-10 05:17:23 +0800'

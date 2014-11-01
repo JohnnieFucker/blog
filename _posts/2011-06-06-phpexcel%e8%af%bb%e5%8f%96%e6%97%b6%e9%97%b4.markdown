@@ -4,7 +4,7 @@ status: publish
 published: true
 title: phpexcel读取时间
 author: JohnnieFucker
-wordpress_id: 371
+post_id: 371
 wordpress_url: http://www.oushit.com/?p=371
 date: '2011-06-06 14:34:15 +0800'
 date_gmt: '2011-06-06 06:34:15 +0800'

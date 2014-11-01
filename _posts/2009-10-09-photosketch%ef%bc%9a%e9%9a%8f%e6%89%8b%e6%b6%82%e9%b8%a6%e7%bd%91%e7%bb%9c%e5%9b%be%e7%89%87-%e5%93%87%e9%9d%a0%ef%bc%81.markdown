@@ -4,7 +4,7 @@ status: publish
 published: true
 title: Photosketch：随手涂鸦+网络图片 = 哇靠！
 author: JohnnieFucker
-wordpress_id: 204
+post_id: 204
 wordpress_url: http://www.oushit.com/?p=204
 date: '2009-10-09 18:05:17 +0800'
 date_gmt: '2009-10-09 10:05:17 +0800'

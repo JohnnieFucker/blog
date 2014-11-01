@@ -5,7 +5,7 @@ published: true
 title: iframe历史记录问题
 author: JohnnieFucker
 excerpt: "在指导一个页面统计项目的时候，我的同事lightma遇到了两个问题，最终在小伙子的努力之下解决了。更加难能可贵的是小伙子把这次问题解决作为知识沉淀在了公司的k吧里面，这么好的东西不转过来就太浪费了。light加油，非常棒的一个小伙，为你鼓掌！\r\n"
-wordpress_id: 207
+post_id: 207
 wordpress_url: http://www.oushit.com/?p=207
 date: '2009-10-10 20:38:15 +0800'
 date_gmt: '2009-10-10 12:38:15 +0800'

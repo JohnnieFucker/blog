@@ -6,7 +6,7 @@ title: 四害齐聚
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/51470698c39f/z1ap1366.jpg\" alt=\"\"
   width=500/>\r\n上个月休年假回成都，正好赶上2姐生日，动员了半天老大和老四，结果两个人都水了。只有我陪2姐。还好我回深圳的时候，死命拖上了老大开车送我去重庆，还叫上了2姐。四害多年来难得一次的聚齐在一起过着糜烂的生活。临走的晚上，我跟2姐裹着毯子4个人血战到4点多，第二天如果不是飞机晚点，还真的就赶不上飞机了……有朋友陪伴的日子真好！\r\n"
-wordpress_id: 92
+post_id: 92
 wordpress_url: http://www.oushit.com/?p=92
 date: '2008-12-02 23:09:56 +0800'
 date_gmt: '2008-12-02 15:09:56 +0800'

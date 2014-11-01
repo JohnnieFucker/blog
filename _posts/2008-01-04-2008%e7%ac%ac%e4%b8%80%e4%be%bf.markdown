@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 2008第一便
 author: JohnnieFucker
-wordpress_id: 31
+post_id: 31
 wordpress_url: http://www.oushit.com/?p=31
 date: '2008-01-04 11:57:59 +0800'
 date_gmt: '2008-01-04 03:57:59 +0800'

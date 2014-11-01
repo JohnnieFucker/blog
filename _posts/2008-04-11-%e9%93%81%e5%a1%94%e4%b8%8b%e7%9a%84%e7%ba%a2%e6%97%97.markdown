@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "转自战法\r\n\r\n【铁塔下的红旗--------巴黎奥运圣火,4月7日现场图文报道】\r\n<img src=\"http://photo.ringo.com/259/259948165O007945610.jpg\"
   width=\"500\" />\r\n<embed src=\"http://p2pdkq.bay.livefilestore.com/y1pLuYmd2Mn7wHBES2G-keomoVEdug7cWrCQ9Ak3y22DCg7KONMqIoMfpggSJT8fkWUxQc0W8RqtftsW8ESeDZU4Q/BLUE%20DRAGON%20('07%20ver.).wma\"
   autostart=\"1\" type=\"audio/x-ms-wma\" width=\"400\" height=\"64\"></embed>\r\n"
-wordpress_id: 52
+post_id: 52
 wordpress_url: http://www.oushit.com/?p=52
 date: '2008-04-11 09:31:10 +0800'
 date_gmt: '2008-04-11 01:31:10 +0800'

@@ -5,7 +5,7 @@ published: true
 title: 大学记忆--刻桌子
 author: JohnnieFucker
 excerpt: "回头想想，大学留给了我很多美好的回忆\r\n虽然也有比较痛苦的......orz\r\n感谢马儿虫同学用手机拍下了男模这精彩的一幕\r\n让我在毕业一年多以后\r\n能够再次回想起学生时代那简单的快乐\r\n"
-wordpress_id: 12
+post_id: 12
 wordpress_url: http://www.oushit.com/?p=12
 date: '2007-11-15 21:06:56 +0800'
 date_gmt: '2007-11-15 13:06:56 +0800'

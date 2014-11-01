@@ -6,7 +6,7 @@ title: 《mysql性能调优与架构设计》读书笔记——第三章
 author: JohnnieFucker
 excerpt: "<strong>第三章MySQL存储引擎简介</strong>\r\n\r\n<strong>MyISAM</strong>\r\nMyISAM支持以下三种类型的索引\r\nb-tree，所有索引节点都按照balance
   tree的数据结构来存储。所有的索引数据节点都在叶节点。最常用，但参与一个索引的所有字段的长度之和不能超过1000字节。\r\nr-tree，主要设计为存储空间和多维数组的字段做索引，目前仅支持geometry类型的字段做索引。很少用到\r\nfull-text，就是我们常说的全文缩影，主要解决like查询效率低的问题。常用\r\n"
-wordpress_id: 212
+post_id: 212
 wordpress_url: http://www.oushit.com/?p=212
 date: '2009-10-13 01:08:43 +0800'
 date_gmt: '2009-10-12 17:08:43 +0800'

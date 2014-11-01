@@ -6,7 +6,7 @@ title: 柔和的剑一样扎死人《差不多先生》
 author: JohnnieFucker
 excerpt: "<img src=\"http://img9.9sky.com/picture/cpfm/_V2/4/49668/tbn_49668_a.jpg\"
   alt=\"\" />\r\n"
-wordpress_id: 87
+post_id: 87
 wordpress_url: http://www.oushit.com/?p=87
 date: '2008-10-21 11:36:14 +0800'
 date_gmt: '2008-10-21 03:36:14 +0800'

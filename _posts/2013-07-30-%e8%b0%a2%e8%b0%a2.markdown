@@ -8,7 +8,7 @@ excerpt: "<embed src=\"http://player.youku.com/player.php/sid/XMzQ4MDg2NTQ0/v.sw
   allowFullScreen=\"true\" quality=\"high\" width=\"480\" height=\"400\" align=\"middle\"
   allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"></embed>\r\n\r\n音乐总是感情最好的表达，这首脍炙人口，歌唱梦想的《老男孩》，原唱竟然是写给父母，表达感谢之情的。我想人的生命中，有很多很多人都值得你表达敬意，表达感谢！\r\n\r\n<strong>今
   心からありがとう</strong>\r\n\r\n"
-wordpress_id: 491
+post_id: 491
 wordpress_url: http://www.oushit.com/?p=491
 date: '2013-07-30 13:30:52 +0800'
 date_gmt: '2013-07-30 05:30:52 +0800'

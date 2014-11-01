@@ -6,7 +6,7 @@ title: 未得之地
 author: JohnnieFucker
 excerpt: "<img src=\"http://wiki.dioenglish.com/uploads/200908/s_1250096484wh354PnA.jpg\"
   alt=\"\" />\r\n约书亚年纪老迈，耶和华对他说，你年纪老迈了，还有许多未得之地。 ——《旧约.约书亚记》十三章1\r\n"
-wordpress_id: 369
+post_id: 369
 wordpress_url: http://www.oushit.com/?p=369
 date: '2011-05-15 23:20:51 +0800'
 date_gmt: '2011-05-15 15:20:51 +0800'

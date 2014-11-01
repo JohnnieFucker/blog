@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 八卦一下同事的qq签名
 author: JohnnieFucker
-wordpress_id: 26
+post_id: 26
 wordpress_url: http://www.oushit.com/?p=26
 date: '2007-12-15 02:07:04 +0800'
 date_gmt: '2007-12-14 18:07:04 +0800'

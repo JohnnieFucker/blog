@@ -4,7 +4,7 @@ status: publish
 published: true
 title: '"屎"上最烂--52合1的游戏卡带'
 author: JohnnieFucker
-wordpress_id: 17
+post_id: 17
 wordpress_url: http://www.oushit.com/?p=17
 date: '2007-11-20 23:41:49 +0800'
 date_gmt: '2007-11-20 15:41:49 +0800'

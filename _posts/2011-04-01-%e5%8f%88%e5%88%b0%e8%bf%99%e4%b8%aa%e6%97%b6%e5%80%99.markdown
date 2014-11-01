@@ -8,7 +8,7 @@ excerpt: "<img class=\"alignnone\" title=\"http://img.xiami.com/images/artistpic
   src=\"http://img.xiami.com/images/artistpic/66/1166/1301266157_NhhO_4.jpg\" alt=\"\"
   width=\"500\" height=\"321\" />\r\n<embed src=\"http://www.xiami.com/widget/3298604_70698/singlePlayer.swf\"
   type=\"application/x-shockwave-flash\" width=\"257\" height=\"33\" wmode=\"transparent\"></embed>\r\n每年这个时候总是要缅怀一下哥哥，不同的是今年还要缅怀一下芒果……虽然每天每夜都在纠结，但是一如既往的还是忘记了某人的生日。晚上上微博看到很多哥哥的话题，才想起——又是一年4月1日到了，我真的是像忘了时间的钟！\r\n"
-wordpress_id: 331
+post_id: 331
 wordpress_url: http://www.oushit.com/?p=331
 date: '2011-04-01 00:16:08 +0800'
 date_gmt: '2011-03-31 16:16:08 +0800'

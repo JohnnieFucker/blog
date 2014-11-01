@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 超强悍MV2
 author: JohnnieFucker
-wordpress_id: 234
+post_id: 234
 wordpress_url: http://www.oushit.com/?p=234
 date: '2010-03-04 13:54:38 +0800'
 date_gmt: '2010-03-04 05:54:38 +0800'

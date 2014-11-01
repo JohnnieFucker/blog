@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://www.yupoo.com/photos/crazysperm/85297432/\" title=\"IMG_0099\"><img
   src=\"http://pic.yupoo.com/crazysperm/BVCtO7V3/medish.jpg\" alt=\"IMG_0099\" width=\"427\"
   height=\"640\" border=\"0\" /></a>\r\n长滩飞石映红日，亭前落花笑春风。\r\n愿归山门曲径中，夜来临溪听雷动。\r\n"
-wordpress_id: 422
+post_id: 422
 wordpress_url: http://www.oushit.com/?p=422
 date: '2012-04-30 03:16:05 +0800'
 date_gmt: '2012-04-29 19:16:05 +0800'

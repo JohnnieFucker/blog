@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "<a href=\"http://www.yupoo.com/photos/crazysperm/76181903/\" title=\"DSC_1067\"><img
   src=\"http://pic.yupoo.com/crazysperm/377319a09306/medium.jpg\" alt=\"DSC_1067\"
   width=\"460\" height=\"500\" border=\"0\" /></a>\r\n整个六月就没怎么好好上班，先是跑深圳给大老板汇报了一下工作，参加了01的管理干部大会，遇到了很多老面孔，喝了很多酒，也跟小生斗了一晚地主，毫不留情的赢了领导几百块……在大巴上还跟pippo，gangs等人杀了几把，很过瘾啊。\r\n"
-wordpress_id: 251
+post_id: 251
 wordpress_url: http://www.oushit.com/?p=251
 date: '2010-07-14 10:55:29 +0800'
 date_gmt: '2010-07-14 02:55:29 +0800'

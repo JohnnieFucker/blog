@@ -5,7 +5,7 @@ published: true
 title: '[美食推荐]蓉记香辣蟹'
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/0976355aa472/medium.jpg\" />\r\n今天去吃了蓉记香辣蟹，味道不错，很正宗的川味，又不太辣，而且环境高雅。\r\n菜的分量中下，价格中上。\r\n弦哥★★★推荐！（图片为手机拍摄）\r\n"
-wordpress_id: 51
+post_id: 51
 wordpress_url: http://www.oushit.com/?p=51
 date: '2008-04-05 18:40:05 +0800'
 date_gmt: '2008-04-05 10:40:05 +0800'

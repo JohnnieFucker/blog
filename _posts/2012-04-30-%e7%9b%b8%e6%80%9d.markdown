@@ -4,7 +4,7 @@ status: publish
 published: true
 title: 相思
 author: JohnnieFucker
-wordpress_id: 429
+post_id: 429
 wordpress_url: http://www.oushit.com/?p=429
 date: '2012-04-30 03:45:38 +0800'
 date_gmt: '2012-04-29 19:45:38 +0800'

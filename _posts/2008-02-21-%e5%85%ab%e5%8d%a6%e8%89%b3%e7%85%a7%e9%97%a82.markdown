@@ -7,7 +7,7 @@ author: JohnnieFucker
 excerpt: "转载自天涯博客\r\n\r\n<p class=\"c3\">　这个游戏真好玩,YAMA已经上瘾了!\r\n近日坛子里又有高人现身，揭示了很多秘密,YAMA也要加快速度,争取把最新最全的八卦整理出来~八卦YAMA&lt;&lt;第二弹&gt;&gt;新鲜出炉!!!!!!!!!!!\r\n====================================\r\n<img
   src=\"http://pic.yupoo.com/crazysperm/403635211140/0lu236fg.jpg\" />\r\n\r\n====================================\r\n①　经高人指点(天涯ID:不平凡的凡凡),床头的大熊原型是香港Teddy
   Bear Kingdom(熊王国)主题博物馆的限量版熊熊,可惜,这个展馆已于05年关闭了~\r\n"
-wordpress_id: 41
+post_id: 41
 wordpress_url: http://www.oushit.com/?p=41
 date: '2008-02-21 19:45:27 +0800'
 date_gmt: '2008-02-21 11:45:27 +0800'

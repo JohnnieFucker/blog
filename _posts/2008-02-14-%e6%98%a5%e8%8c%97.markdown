@@ -5,7 +5,7 @@ published: true
 title: 春茗
 author: JohnnieFucker
 excerpt: "<img src=\"http://pic.yupoo.com/crazysperm/77385517720c/medium.jpg\" />\r\n"
-wordpress_id: 39
+post_id: 39
 wordpress_url: http://www.oushit.com/?p=39
 date: '2008-02-14 16:35:22 +0800'
 date_gmt: '2008-02-14 08:35:22 +0800'

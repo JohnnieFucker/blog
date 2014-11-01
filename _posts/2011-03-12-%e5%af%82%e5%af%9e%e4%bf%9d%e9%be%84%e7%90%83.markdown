@@ -8,7 +8,7 @@ excerpt: "<a href=\"http://www.yupoo.com/photos/crazysperm/80155139/\" title=\"I
   src=\"http://pic.yupoo.com/crazysperm/AUyTZaLK/medium.jpg\" alt=\"IMG_0435\" width=\"500\"
   height=\"373\" border=\"0\" /></a>\r\n古语有云：孤单女人穿丝袜，寂寞男人打DOTA。\r\ndota最近越打越不给力了，还是打打保龄球吧。正所谓当爱情让我feel
   so boring,我开始爱上打bowling.\r\n哥上周末的最高得分127……\r\n"
-wordpress_id: 316
+post_id: 316
 wordpress_url: http://www.oushit.com/?p=316
 date: '2011-03-12 14:05:05 +0800'
 date_gmt: '2011-03-12 06:05:05 +0800'
