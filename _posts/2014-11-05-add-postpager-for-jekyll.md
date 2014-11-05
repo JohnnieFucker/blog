@@ -19,9 +19,9 @@ paginate_path: "page:num"
 </pre>
 
 在index.html中添加以下js代码  
-```js 
- <div class="pager">
-        {% if paginator.previous_page %}
+```js  
+ <div class="pager">   
+        {% if paginator.previous_page %}          
             <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">prev</a>
         {% endif %}
         {% if paginator.page == 1 %}
@@ -56,6 +56,5 @@ paginate_path: "page:num"
         {% if paginator.next_page %}
             <a href="{{ paginator.next_page_path|replace: '//', '/' }}">next</a>
         {% endif %}
-    </div>
-
-、、、
+    </div>   
+    ```
