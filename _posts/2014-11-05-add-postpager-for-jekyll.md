@@ -19,42 +19,45 @@ paginate_path: "page:num"
 </pre>
 
 在index.html中添加以下js代码  
-```js  
- <div class="pager">   
-        {% if paginator.previous_page %}          
-            <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">prev</a>
-        {% endif %}
-        {% if paginator.page == 1 %}
-            <span class="active">1</span>
-        {% else %}
-            <a href="/index.html">1</a>
-        {% endif %}
-        {% if paginator.page > 4 %}
-        <span>…</span>
-        {% endif %}
-        {% for page in (2..paginator.total_pages) %}
-            {% if page == paginator.page %}
-                <span class="active">{{ page }}</span>
-            {% else %}
-                {% assign c1 = page|minus:paginator.page %}
-                {% assign c2 = paginator.page|minus:page %}
-                {% if page > paginator.page and c1 < 3 %}
-                      <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-                {% endif %}
-                {% if paginator.page > page and c2 < 3 %}
-                      <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-                {% endif %}
-            {% endif %}
-        {% endfor %}
-        {% assign c3 = paginator.page|plus:3 %}
-        {% if c3 < paginator.total_pages %}
-            <span>…</span>
-        {% endif %}
-        {% if  c3 <= paginator.total_pages %}
-            <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{paginator.total_pages }}</a>
-        {% endif%}
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path|replace: '//', '/' }}">next</a>
-        {% endif %}
-    </div>   
-    ```
+{% highlight html linenos %}  
+{% raw %}
+<div class="pager">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path |replace: '//', '/'}}">prev</a>
+    {% endif %}
+    {% if paginator.page == 1 %}
+    <span class="active">1</span>
+    {% else %}
+    <a href="/index.html">1</a>
+    {% endif %}
+    {% if paginator.page > 4 %}
+    <span>…</span>
+    {% endif %}
+    {% for page in (2..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <span class="active">{{ page }}</span>
+    {% else %}
+    {% assign c1 = page|minus:paginator.page %}
+    {% assign c2 = paginator.page|minus:page %}
+    {% if page > paginator.page and c1 < 3 %}
+    <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% if paginator.page > page and c2 < 3 %}
+    <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% assign c3 = paginator.page|plus:3 %}
+    {% if c3 < paginator.total_pages %}
+    <span>…</span>
+    {% endif %}
+    {% if c3 <= paginator.total_pages %}
+    <a href="/{{ site.paginate_path |  replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{paginator.total_pages
+        }}</a>
+    {% endif%}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path|replace: '//', '/' }}">next</a>
+    {% endif %}
+</div>
+{% endraw %} 
+{% endhighlight %}
