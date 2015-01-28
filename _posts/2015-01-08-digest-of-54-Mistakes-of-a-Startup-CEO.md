@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 《创业公司CEO 54点大忌》摘要
 author: JohnnieFucker
 date: '2015-01-08 11:20'
 post_id: 503
