@@ -12,6 +12,7 @@ tags:
 
 
 转载自：[创业之前 ——Paul Graham 最新博文](http://blog.csdn.net/lzw_java/article/details/40968199) 
+
 原文：[Paul
  Graham](http://paulgraham.com/before.html)
 
