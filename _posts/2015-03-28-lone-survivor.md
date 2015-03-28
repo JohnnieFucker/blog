@@ -5,7 +5,7 @@ author: JohnnieFucker
 date: '2015-03-28 21:54'
 post_id: 506
 category: Music
-cover:"/images/201503281.jpg"
+cover:'/images/201503281.jpg'
 tags:
 - 人生
 - 音乐
