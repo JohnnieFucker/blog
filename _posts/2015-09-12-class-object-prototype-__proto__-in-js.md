@@ -11,6 +11,7 @@ tags:
 javascrpt中的类，对象，原型是一个很重要也很绕的概念，面试过好多人，能说一点但讲不清楚。
 
 js并不是真正面向对象（oo）的编程语言，所以语法中并没有class，但js是一种基于对象（object-based）的的语言。js中的一切都是对象，Object（普通对象）或者Function（函数对象），而Function是一种特殊的Object，我们可以通过很多方式来达到声明一个类的效果。比如：
+<!--break-->
 {% highlight javascript linenos %}  
 {% raw %}
 var User = function(name){
