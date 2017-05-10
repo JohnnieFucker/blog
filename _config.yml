@@ -3,5 +3,5 @@ baseurl : /
 url : www.oushit.com
 paginate : 5
 paginate_path: "page:num"
-highlighter: pygments
+highlighter: rouge
 
