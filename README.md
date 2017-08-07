@@ -1,5 +1,5 @@
-oushit
+莲华
 ======
-this is my blog
+一步一莲华
 
-[http://www.oushit.com](http://www.oushit.com)
+[http://www.lotustime.cn](http://www.lotustime.cn)
