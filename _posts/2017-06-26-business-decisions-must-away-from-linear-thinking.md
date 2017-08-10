@@ -2,7 +2,7 @@
 layout: post
 title: 商业决策远离线性思维
 author: JohnnieFucker
-date: '2017-05-10 10:03'
+date: '2017-06-26 10:00'
 post_id: 512
 category: Some Words
 tags:
