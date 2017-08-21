@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 谈谈失败主义
