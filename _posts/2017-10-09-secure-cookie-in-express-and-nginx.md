@@ -14,9 +14,9 @@ tags:
 最近在做某个项目的渗透测试的时候，其中有一条反馈，指出cookie没有添加secure属性，这样可能导致中间人攻击。
 
 
-其实在express的设置中配置cookie非常简单，但是由于我们在node前端增加了nginx作为反向的代理。所以在express和nginx的配置中都需要做相关的配置。否则会导致请求session的丢失。
+其实在express的设置中配置cookie非常简单，但是由于我们在node前端增加了nginx作为反向的代理。nginx代理了https的请求，转发给http的node进程，所以在express和nginx的配置中都需要做相关的配置。否则会导致请求session的丢失。
 
-
+<!--break-->
 express 的nginx配置:
 ```
 app.enable('trust proxy');  //这句很重要
