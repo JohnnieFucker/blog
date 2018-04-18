@@ -1,3 +1,15 @@
+---
+layout: post
+title:  陈春花管理公开课
+author: JohnnieFucker
+date: '2018-04-18 11:06'
+post_id: 517
+category: The Time Of My Life
+tags:
+- 管理
+- 陈春花
+---
+
 [如何成为有效的管理者](http://open.163.com/special/cuvocw/guanlixingdong.html) 
 
 [如何激活组织？](https://open.163.com/movie/2017/7/D/T/MCOVN9NK2_MCOVTD8DT.html)
