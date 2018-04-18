@@ -3,7 +3,7 @@ layout: post
 title:  陈春花管理公开课
 author: JohnnieFucker
 date: '2018-04-18 11:06'
-post_id: 517
+post_id: 518
 category: The Time Of My Life
 tags:
 - 管理
