@@ -35,5 +35,5 @@ comments:
   date_gmt: '2011-10-15 14:14:07 +0800'
   content: 炫总，你是我遇到最酷的leader，有点小清新的哥老官，有思想的man，祝前程似景，追上你的梦想。
 ---
-<p><a href="http://www.yupoo.com/photos/crazysperm/82381797/" title="IMG_0105"><img src="http://pic.yupoo.com/crazysperm/BjqZo4a2/medium.jpg" alt="IMG_0105" width="373" height="500" border="0" /></a><br />
+<p><a href="\images\82381797-IMG_0105.jpg" title="IMG_0105"><img src="http://pic.yupoo.com/crazysperm/BjqZo4a2/medium.jpg" alt="IMG_0105" width="373" height="500" border="0" /></a><br />
 今天HR问我是哪天入职的，我说我不记得了。但是我会记得今天，2011年8月22日，我从腾讯毕业，在腾讯完成一个学生到职业人的转变，在腾讯完成一个程序员到一个架构师到一个Leader的转变。而今走出腾讯，重新上路，重新做一个coder，就像我在团队的简短告别演讲中说的，带着信念，勇敢的去追寻梦想！</p>
